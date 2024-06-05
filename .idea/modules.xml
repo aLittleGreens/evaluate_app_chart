@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/FlutterWeb.iml" filepath="$PROJECT_DIR$/.idea/FlutterWeb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evaluate_app_chart.iml" filepath="$PROJECT_DIR$/evaluate_app_chart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/evaluate_app_chart_android.iml" filepath="$PROJECT_DIR$/android/evaluate_app_chart_android.iml" />
     </modules>
   </component>
 </project>
