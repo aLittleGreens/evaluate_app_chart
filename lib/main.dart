@@ -1,12 +1,11 @@
 import 'package:evaluate_app_chart/bean/questionType.dart';
 import 'package:evaluate_app_chart/data/ListSingleton.dart';
-import 'package:evaluate_app_chart/screens/RatingChart.dart';
-import 'package:evaluate_app_chart/screens/chart/starChartPage.dart';
 import 'package:evaluate_app_chart/screens/chart/drawer.dart';
-import 'package:flutter/foundation.dart';
+import 'package:evaluate_app_chart/screens/chart/starChartPage.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
+import 'package:google_fonts/google_fonts.dart';
 
 import 'data/DataParse.dart';
 
@@ -89,13 +88,21 @@ class _MyHomePageState extends State<MyHomePage> {
   }
 
   void fetchData() {
-    compute(parseData, "");
+    parseData();
   }
 
-  void parseData(String ss) {
-    decodeQuestion();
-    decodeAllComment();
-    setState(() {});
+  void parseData() {
+    Future<String> fetchData() async {
+      decodeQuestion();
+      await decodeAllComment(); // 模拟2秒延迟
+      return 'Data loaded successfully';
+    }
+
+    fetchData().then((result) {
+      // 任务完成后切换回主线程刷新UI
+      print("setState");
+      setState(() {});
+    });
   }
 
   void _incrementCounter() {
@@ -319,9 +326,11 @@ class _MyHomePageState extends State<MyHomePage> {
                                         CrossAxisAlignment.start,
                                     children: [
                                       Text(data[index].title_translate,
-                                          style: const TextStyle(
-                                              fontSize: 14.0,
-                                              fontWeight: FontWeight.bold)),
+                                          style: GoogleFonts.notoSans(
+                                              textStyle: const TextStyle(
+                                                  fontSize: 14.0,
+                                                  fontWeight:
+                                                      FontWeight.bold))),
                                       Text(data[index].content_translate,
                                           style:
                                               const TextStyle(fontSize: 14.0))

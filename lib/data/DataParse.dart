@@ -30,8 +30,9 @@ Future decodeQuestion() async {
 
 Future decodeAllComment() async {
   for (String assetPath in assetVersions) {
-    decodeComment(assetPath);
+    await decodeComment(assetPath);
   }
+  print("decodeAllComment Complete");
 }
 
 // 将 json 字符串解析为 Person 对象
