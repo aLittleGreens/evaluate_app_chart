@@ -7,9 +7,16 @@ import '../bean/EvaluteBean.dart';
 import 'ListSingleton.dart';
 
 List<String> assetVersions = [
+  'assets/comment/v1.1.1_comment.json',
+  'assets/comment/v1.0.9_comment.json',
   'assets/comment/v1.0.7_comment.json',
   'assets/comment/v1.0.6_comment.json'
 ];
+
+
+
+String _averageRating = "";
+int _TotalRating = 0;
 
 Future _loadPersonJson(String json) async {
   return await rootBundle.loadString(json);
@@ -32,6 +39,9 @@ Future decodeAllComment() async {
   for (String assetPath in assetVersions) {
     await decodeComment(assetPath);
   }
+  ListSingleton listSingleton = ListSingleton();
+  listSingleton.averageRating =
+      (_TotalRating / listSingleton.list.length).toStringAsFixed(1);
   print("decodeAllComment Complete");
 }
 
@@ -59,6 +69,8 @@ Future decodeComment(String version) async {
     String ty_review_type = item['ty_review_type'];
     String ty_question_type = item['ty_question_type'];
     print('author: $author, rating: $rating,version:$version title:$title');
+    _TotalRating += int.tryParse(rating)!;
+
     var evalutebean = Evalutebean(
         id,
         author,

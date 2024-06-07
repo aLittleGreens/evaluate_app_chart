@@ -1,29 +1,28 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../bean/questionType.dart';
-import '../../data/ListSingleton.dart';
-import '../RatingChart.dart';
+import '../../../data/ListSingleton.dart';
+import 'QuestionChart.dart';
 
-class StarChartPage extends ConsumerStatefulWidget {
-  const StarChartPage({Key? key}) : super(key: key);
+class QuestionChartPage extends ConsumerStatefulWidget {
+  const QuestionChartPage({Key? key}) : super(key: key);
 
   @override
-  ConsumerState<StarChartPage> createState() => _ChartPageState();
+  ConsumerState<QuestionChartPage> createState() => _ChartPageState();
 }
 
-class _ChartPageState extends ConsumerState<StarChartPage> {
+class _ChartPageState extends ConsumerState<QuestionChartPage> {
   var listSingleton = ListSingleton();
   late String _selectedOsItem;
-  late String _selectedStarItem;
-  late String _selectedVersionItem;
+  late String _selectedQuestionItem;
 
   @override
   void initState() {
     super.initState();
     _selectedOsItem = listSingleton.osFilterItems.first;
-    _selectedStarItem = listSingleton.starFilterItems.first;
-    _selectedVersionItem = listSingleton.versionFilterItems.first;
+    _selectedQuestionItem = listSingleton.questionFilterItems.isEmpty
+        ? "0"
+        : listSingleton.questionFilterItems.first;
   }
 
   @override
@@ -35,8 +34,7 @@ class _ChartPageState extends ConsumerState<StarChartPage> {
   Widget build(BuildContext context) {
     var data = listSingleton.filterList(
         os: _selectedOsItem,
-        version: _selectedVersionItem,
-        star: _selectedStarItem);
+        question: _selectedQuestionItem);
 
     return Scaffold(
       appBar: AppBar(
@@ -44,7 +42,7 @@ class _ChartPageState extends ConsumerState<StarChartPage> {
         title: Text('star'),
       ),
       body: Center(
-          child: data.isEmpty
+          child: listSingleton.list.isEmpty
               ? const CircularProgressIndicator()
               : Column(
                   children: [
@@ -67,38 +65,24 @@ class _ChartPageState extends ConsumerState<StarChartPage> {
                           }).toList(),
                         ),
                         DropdownButton<String>(
-                          value: _selectedStarItem,
+                          value: _selectedQuestionItem,
                           onChanged: (value) => {
                             setState(() {
-                              _selectedStarItem = value!;
+                              _selectedQuestionItem = value!;
                             })
                           },
-                          items:
-                              listSingleton.starFilterItems.map((String value) {
-                            return DropdownMenuItem<String>(
-                              value: value,
-                              child: Text(listSingleton.starFilterMap[value]),
-                            );
-                          }).toList(),
-                        ),
-                        DropdownButton<String>(
-                          value: _selectedVersionItem,
-                          onChanged: (value) => {
-                            setState(() {
-                              _selectedVersionItem = value!;
-                            })
-                          },
-                          items: listSingleton.versionFilterItems
+                          items: listSingleton.questionFilterItems
                               .map((String value) {
                             return DropdownMenuItem<String>(
                               value: value,
-                              child: Text(value),
+                              child:
+                              Text(listSingleton.questionFilterMap[value]),
                             );
                           }).toList(),
                         ),
                       ],
                     ),
-                    const Expanded(child: RatingChart())
+                    QuestionChart(data)
                   ],
                 )),
     );

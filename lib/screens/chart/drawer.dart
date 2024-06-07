@@ -29,9 +29,9 @@ class CategoriesDrawer extends ConsumerWidget {
             },
           ),
           ListTile(
-            title: Text('sample'),
+            title: Text('question'),
             onTap: () {
-              context.go('/sampleChart');
+              context.go('/questionChart');
               Navigator.pop(context, true);
             },
           ),

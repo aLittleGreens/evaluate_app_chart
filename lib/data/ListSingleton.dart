@@ -3,6 +3,7 @@ import 'package:evaluate_app_chart/bean/EvaluteBean.dart';
 class ListSingleton {
   static final ListSingleton _instance = ListSingleton._internal();
   List<Evalutebean> _list = [];
+  String averageRating = "";
 
   List<String> starFilterItems = ['0', '1', '2', '3', '4', '5'];
   List<String> osFilterItems = ["All OS", "IOS", "Android"];
@@ -74,6 +75,7 @@ class ListSingleton {
       filterList =
           filterList.where((item) => item.os == os).toList(growable: true);
     }
+    print("filterList:${filterList.length}");
 
     return filterList;
   }

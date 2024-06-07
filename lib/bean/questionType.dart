@@ -44,3 +44,26 @@ String typeString(String type) {
       return '未分类';
   }
 }
+
+int versionToCode(String type) {
+  switch (type) {
+    case "1.0.6":
+      return 6;
+    case "1.0.7":
+      return 7;
+    case "1.0.8":
+      return 8;
+    case "1.0.9":
+      return 9;
+    case "1.1.0":
+      return 10;
+    case "1.1.1":
+      return 11;
+    case "1.2.0":
+      return 12;
+    case "1.2.1":
+      return 13;
+    default:
+      return 14;
+  }
+}

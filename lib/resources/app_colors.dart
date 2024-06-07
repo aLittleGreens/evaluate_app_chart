@@ -24,3 +24,20 @@ class AppColors {
   static const Color contentColorRed = Color(0xFFE80054);
   static const Color contentColorCyan = Color(0xFF50E4FF);
 }
+
+List<Color> colorRanking = [
+  AppColors.contentColorRed,
+  AppColors.contentColorOrange,
+  AppColors.contentColorYellow,
+  AppColors.contentColorGreen,
+  AppColors.contentColorGreen1,
+  Colors.grey[900]!,
+  Colors.grey[850]!,
+  Colors.grey[800]!,
+  Colors.grey[700]!,
+  Colors.grey[600]!,
+  Colors.grey[500]!,
+  Colors.grey[350]!,
+  Colors.grey[300]!,
+  Colors.grey[200]!,
+];

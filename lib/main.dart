@@ -1,7 +1,9 @@
 import 'package:evaluate_app_chart/bean/questionType.dart';
 import 'package:evaluate_app_chart/data/ListSingleton.dart';
 import 'package:evaluate_app_chart/screens/chart/drawer.dart';
-import 'package:evaluate_app_chart/screens/chart/starChartPage.dart';
+import 'package:evaluate_app_chart/screens/chart/question/QuestionChartPage.dart';
+import 'package:evaluate_app_chart/screens/chart/star/starChartPage.dart';
+import 'package:evaluate_app_chart/screens/chart/utils/EvaluteUtils.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'package:go_router/go_router.dart';
@@ -26,6 +28,9 @@ class MyApp extends StatelessWidget {
           GoRoute(
             path: 'starChart',
             builder: (_, __) => const StarChartPage(),
+          ), GoRoute(
+            path: 'questionChart',
+            builder: (_, __) => const QuestionChartPage(),
           ),
         ],
       ),
@@ -52,15 +57,6 @@ class MyApp extends StatelessWidget {
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
-  // This widget is the home page of your application. It is stateful, meaning
-  // that it has a State object (defined below) that contains fields that affect
-  // how it looks.
-
-  // This class is the configuration for the state. It holds the values (in this
-  // case the title) provided by the parent (in this case the App widget) and
-  // used by the build method of the State. Fields in a Widget subclass are
-  // always marked "final".
-
   final String title;
 
   @override
@@ -68,7 +64,6 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
   var listSingleton = ListSingleton();
   late String _selectedOsItem;
   late String _selectedStarItem;
@@ -100,14 +95,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
     fetchData().then((result) {
       // 任务完成后切换回主线程刷新UI
-      print("setState");
       setState(() {});
-    });
-  }
-
-  void _incrementCounter() {
-    setState(() {
-      _counter++;
     });
   }
 
@@ -125,12 +113,14 @@ class _MyHomePageState extends State<MyHomePage> {
         title: Text(widget.title),
       ),
       drawer: const CategoriesDrawer(),
-      body: Center(
-          child: data.isEmpty
-              ? const CircularProgressIndicator()
-              : Column(
-                  children: [
-                    Row(
+      body: listSingleton.list.isEmpty
+          ? const CircularProgressIndicator()
+          : NestedScrollView(
+              headerSliverBuilder:
+                  (BuildContext context, bool innerBoxIsScrolled) {
+                return <Widget>[
+                  SliverAppBar(
+                    title: Row(
                       crossAxisAlignment: CrossAxisAlignment.end,
                       mainAxisAlignment: MainAxisAlignment.end,
                       children: [
@@ -197,191 +187,243 @@ class _MyHomePageState extends State<MyHomePage> {
                         ),
                       ],
                     ),
-                    Container(
-                      color: Colors.black12,
-                      child: SingleChildScrollView(
-                          padding: EdgeInsets.all(10),
-                          child: ListView(
-                            shrinkWrap: true,
-                            physics: NeverScrollableScrollPhysics(),
-                            children: const <Widget>[
-                              ListTile(
-                                contentPadding: EdgeInsets.all(10.0),
-                                title: Row(
-                                  mainAxisAlignment:
-                                      MainAxisAlignment.spaceBetween,
-                                  children: <Widget>[
-                                    Expanded(
-                                      flex: 1,
-                                      child: Center(
-                                        child: Text("OS",
-                                            style: const TextStyle(
-                                                fontSize: 16.0,
-                                                fontWeight: FontWeight.bold)),
-                                      ),
-                                    ),
-                                    Expanded(
-                                      flex: 1,
-                                      child: Center(
-                                        child: Text("Rating",
-                                            style: const TextStyle(
-                                                fontSize: 16.0,
-                                                fontWeight: FontWeight.bold)),
-                                      ),
-                                    ),
-                                    // Expanded(
-                                    //   flex: 1,
-                                    //   child: Text(data[index].author,
-                                    //       style: TextStyle(fontSize: 12.0)),
-                                    // ),
-                                    Expanded(
-                                      flex: 3,
-                                      child: Column(
-                                        crossAxisAlignment:
-                                            CrossAxisAlignment.start,
-                                        children: [
-                                          Text("Reviews",
-                                              style: const TextStyle(
-                                                  fontSize: 14.0,
-                                                  fontWeight: FontWeight.bold)),
-                                        ],
-                                      ),
-                                    ),
-                                    Expanded(
-                                      flex: 1,
-                                      child: Center(
-                                        child: Text("Date",
-                                            style: const TextStyle(
-                                                fontSize: 16.0,
-                                                fontWeight: FontWeight.bold)),
-                                      ),
-                                    ),
-                                    Expanded(
-                                      flex: 1,
-                                      child: Center(
-                                        child: Text("Country/Region",
-                                            style: const TextStyle(
-                                                fontSize: 16.0,
-                                                fontWeight: FontWeight.bold)),
-                                      ),
-                                    ),
-                                    Expanded(
-                                      flex: 1,
-                                      child: Center(
-                                        child: Text("question classify",
-                                            style: TextStyle(
-                                                fontSize: 16.0,
-                                                fontWeight: FontWeight.bold)),
-                                      ),
-                                    ),
-                                  ],
-                                ),
-                                trailing: Text('Version',
-                                    style: TextStyle(
-                                        fontSize: 16.0,
-                                        fontWeight: FontWeight.bold)),
-                              )
+                    leading: Container(), // 去除 leading 部分
+                  ),
+                  SliverAppBar(
+                    leading: Container(), // 去除 leading 部分
+                    title: Row(
+                      mainAxisAlignment: MainAxisAlignment.center,
+                      children: [
+                        Padding(
+                          padding: const EdgeInsets.all(20.0),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Text("Review count",
+                                  style: GoogleFonts.notoSans(
+                                      textStyle:
+                                          const TextStyle(fontSize: 16.0))),
+                              Text("${data.length}",
+                                  style: const TextStyle(
+                                      fontSize: 19.0,
+                                      fontWeight: FontWeight.bold))
                             ],
-                          )),
+                          ),
+                        ),
+                        Padding(
+                          padding: const EdgeInsets.all(20.0),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.center,
+                            children: [
+                              Text("Selected average rating",
+                                  style: GoogleFonts.notoSans(
+                                      textStyle:
+                                          const TextStyle(fontSize: 16.0))),
+                              Text(getAverageRating(data),
+                                  style: const TextStyle(
+                                      fontSize: 19.0,
+                                      fontWeight: FontWeight.bold))
+                            ],
+                          ),
+                        ),
+                        Padding(
+                          padding: const EdgeInsets.all(20.0),
+                          child: Column(
+                            crossAxisAlignment: CrossAxisAlignment.start,
+                            children: [
+                              Text("cumulative average rating",
+                                  style: GoogleFonts.notoSans(
+                                      textStyle:
+                                          const TextStyle(fontSize: 16.0))),
+                              Text(listSingleton.averageRating,
+                                  style: const TextStyle(
+                                      fontSize: 19.0,
+                                      fontWeight: FontWeight.bold))
+                            ],
+                          ),
+                        ),
+                      ],
                     ),
-                    Expanded(
-                      child: ListView.builder(
-                        itemCount: data.length,
-                        itemBuilder: (context, index) {
-                          // return ListTile(
-                          //   title: Text(data[index].author),
-                          // );
-                          return ListTile(
-                            contentPadding: EdgeInsets.all(10.0),
-                            title: Row(
-                              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-                              children: <Widget>[
-                                Expanded(
-                                  flex: 1,
-                                  child: Center(
-                                    child: Text(data[index].os,
-                                        style: const TextStyle(
-                                            fontSize: 14.0,
-                                            fontWeight: FontWeight.bold)),
-                                  ),
-                                ),
-                                Expanded(
-                                  flex: 1,
-                                  child: Center(
-                                    child: Text(data[index].rating,
-                                        style: const TextStyle(
-                                            fontSize: 14.0,
-                                            fontWeight: FontWeight.bold)),
-                                  ),
-                                ),
-                                // Expanded(
-                                //   flex: 1,
-                                //   child: Text(data[index].author,
-                                //       style: TextStyle(fontSize: 12.0)),
-                                // ),
-                                Expanded(
-                                  flex: 3,
-                                  child: Column(
-                                    crossAxisAlignment:
-                                        CrossAxisAlignment.start,
-                                    children: [
-                                      Text(data[index].title_translate,
-                                          style: GoogleFonts.notoSans(
-                                              textStyle: const TextStyle(
-                                                  fontSize: 14.0,
-                                                  fontWeight:
-                                                      FontWeight.bold))),
-                                      Text(data[index].content_translate,
-                                          style:
-                                              const TextStyle(fontSize: 14.0))
+                  ),
+                  SliverAppBar(
+                    flexibleSpace: Container(
+                      child: Container(
+                        color: Colors.black12,
+                        child: SingleChildScrollView(
+                            child: ListView(
+                              shrinkWrap: true,
+                              physics: NeverScrollableScrollPhysics(),
+                              children: const <Widget>[
+                                ListTile(
+                                  title: Row(
+                                    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                                    children: <Widget>[
+                                      Expanded(
+                                        flex: 1,
+                                        child: Center(
+                                          child: Text("OS",
+                                              style: const TextStyle(
+                                                  fontSize: 16.0,
+                                                  fontWeight: FontWeight.bold)),
+                                        ),
+                                      ),
+                                      Expanded(
+                                        flex: 1,
+                                        child: Center(
+                                          child: Text("Rating",
+                                              style: const TextStyle(
+                                                  fontSize: 16.0,
+                                                  fontWeight: FontWeight.bold)),
+                                        ),
+                                      ),
+                                      // Expanded(
+                                      //   flex: 1,
+                                      //   child: Text(data[index].author,
+                                      //       style: TextStyle(fontSize: 12.0)),
+                                      // ),
+                                      Expanded(
+                                        flex: 3,
+                                        child: Column(
+                                          crossAxisAlignment:
+                                          CrossAxisAlignment.start,
+                                          children: [
+                                            Text("Reviews",
+                                                style: const TextStyle(
+                                                    fontSize: 14.0,
+                                                    fontWeight: FontWeight.bold)),
+                                          ],
+                                        ),
+                                      ),
+                                      Expanded(
+                                        flex: 1,
+                                        child: Center(
+                                          child: Text("Date",
+                                              style: const TextStyle(
+                                                  fontSize: 16.0,
+                                                  fontWeight: FontWeight.bold)),
+                                        ),
+                                      ),
+                                      Expanded(
+                                        flex: 1,
+                                        child: Center(
+                                          child: Text("Country/Region",
+                                              style: const TextStyle(
+                                                  fontSize: 16.0,
+                                                  fontWeight: FontWeight.bold)),
+                                        ),
+                                      ),
+                                      Expanded(
+                                        flex: 1,
+                                        child: Center(
+                                          child: Text("question classify",
+                                              style: TextStyle(
+                                                  fontSize: 16.0,
+                                                  fontWeight: FontWeight.bold)),
+                                        ),
+                                      ),
                                     ],
                                   ),
-                                ),
-                                Expanded(
-                                  flex: 1,
-                                  child: Center(
-                                    child: Text(data[index].updated,
-                                        style: const TextStyle(fontSize: 14.0)),
-                                  ),
-                                ),
-                                Expanded(
-                                  flex: 1,
-                                  child: Center(
-                                    child: Text(data[index].cc,
-                                        style: const TextStyle(fontSize: 14.0)),
-                                  ),
-                                ),
-                                Expanded(
-                                  flex: 1,
-                                  child: Center(
-                                    child: Text(
-                                        typeString(
-                                            data[index].ty_question_type),
-                                        style: const TextStyle(
-                                            fontSize: 16.0,
-                                            fontWeight: FontWeight.bold)),
-                                  ),
-                                ),
+                                  trailing: Text('Version',
+                                      style: TextStyle(
+                                          fontSize: 16.0,
+                                          fontWeight: FontWeight.bold)),
+                                )
+                              ],
+                            )),
+                      ),
+                    ),
+                    leading: SizedBox.shrink(),
+                    // 去除 leading 部分
+                    actions: <Widget>[SizedBox.shrink()],
+                    // 去除阴影
+                  ),
+                ];
+              },
+              body: Expanded(
+                child: ListView.builder(
+                  itemCount: data.length,
+                  itemBuilder: (context, index) {
+                    return ListTile(
+                      contentPadding: EdgeInsets.all(10.0),
+                      title: Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: <Widget>[
+                          Expanded(
+                            flex: 1,
+                            child: Center(
+                              child: Text(data[index].os,
+                                  style: const TextStyle(
+                                      fontSize: 14.0,
+                                      fontWeight: FontWeight.bold)),
+                            ),
+                          ),
+                          Expanded(
+                            flex: 1,
+                            child: Center(
+                              child: Text(data[index].rating,
+                                  style: const TextStyle(
+                                      fontSize: 14.0,
+                                      fontWeight: FontWeight.bold)),
+                            ),
+                          ),
+                          // Expanded(
+                          //   flex: 1,
+                          //   child: Text(data[index].author,
+                          //       style: TextStyle(fontSize: 12.0)),
+                          // ),
+                          Expanded(
+                            flex: 3,
+                            child: Column(
+                              crossAxisAlignment: CrossAxisAlignment.start,
+                              children: [
+                                Text(data[index].title_translate,
+                                    style: GoogleFonts.notoSans(
+                                        textStyle: const TextStyle(
+                                            fontSize: 14.0,
+                                            fontWeight: FontWeight.bold))),
+                                Text(data[index].content_translate,
+                                    style: const TextStyle(fontSize: 14.0))
                               ],
                             ),
-                            trailing: Text(
-                              data[index].version,
-                              style: const TextStyle(fontSize: 16.0),
+                          ),
+                          Expanded(
+                            flex: 1,
+                            child: Center(
+                              child: Text(data[index].updated,
+                                  style: const TextStyle(fontSize: 14.0)),
                             ),
-                            onTap: () {
-                              // 点击列表项时的操作
-                            },
-                          );
-                        },
+                          ),
+                          Expanded(
+                            flex: 1,
+                            child: Center(
+                              child: Text(data[index].cc,
+                                  style: const TextStyle(fontSize: 14.0)),
+                            ),
+                          ),
+                          Expanded(
+                            flex: 1,
+                            child: Center(
+                              child: Text(
+                                  typeString(data[index].ty_question_type),
+                                  style: const TextStyle(
+                                      fontSize: 16.0,
+                                      fontWeight: FontWeight.bold)),
+                            ),
+                          ),
+                        ],
                       ),
-                    )
-                  ],
-                )),
-      floatingActionButton: FloatingActionButton(
-        onPressed: _incrementCounter,
-        tooltip: 'Increment',
-        child: const Icon(Icons.add),
-      ), // This trailing comma makes auto-formatting nicer for build methods.
+                      trailing: Text(
+                        data[index].version,
+                        style: const TextStyle(fontSize: 16.0),
+                      ),
+                      onTap: () {
+                        // 点击列表项时的操作
+                      },
+                    );
+                  },
+                ),
+              ),
+            ),
     );
   }
 }
