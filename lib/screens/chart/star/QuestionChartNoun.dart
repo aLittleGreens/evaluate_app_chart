@@ -69,9 +69,10 @@ class _QuestionChartNounState extends State<QuestionChartNoun> {
   // List
 
   List<PieChartSectionData> showingSections(bool min) {
+    double screenWidth = MediaQuery.of(context).size.width;
     return List.generate(starList!.length > 6 ? 6 : starList!.length, (i) {
       final fontSize = min ? 10.0 : 20.0;
-      final radius = min ? 40.0 : 250.0;
+      final radius = min ? 40.0 : screenWidth/6.5;
       const shadows = [Shadow(color: Colors.black, blurRadius: 2)];
       var starBean = starList![i];
       return PieChartSectionData(

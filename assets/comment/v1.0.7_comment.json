@@ -4,15 +4,15 @@
       {
         "author": {
           "uri": {
-            "label": "https://itunes.apple.com/fr/reviews/id378312734?l=en"
+            "label": "https://itunes.apple.com/se/reviews/id150260474?l=en"
           },
           "name": {
-            "label": "Olympus123&8&"
+            "label": "Gahskdiehvlf"
           },
           "label": ""
         },
         "updated": {
-          "label": "2023-07-06T05:29:07-07:00"
+          "label": "2023-07-24T13:37:32-07:00"
         },
         "im:rating": {
           "label": "1"
@@ -21,13 +21,13 @@
           "label": "1.0.7"
         },
         "id": {
-          "label": "10109913635"
+          "label": "10177757947"
         },
         "title": {
-          "label": "Vision nocturne"
+          "label": "Fortfarande lika osbabil som ugrow var"
         },
         "content": {
-          "label": "La vision nocturne ne s’active que as et aucun moyen de l’activer depuis l’appli",
+          "label": "Värdelös app som fungerar exakt lika dåligt som ugrow. Ugrow ersattes med denna. Trodde det skulle bli bättre men det blev det inte. Både ljud och bild hackar och man får ofta ”failed to get video stream”.  Hur kan man inte ha fixat det här problemet än? Att vaka över våra barn är ju det viktigaste som finns. Skandal att en produkt för det här priset inte fungerar bättre.",
           "attributes": {
             "type": "text"
           }
@@ -35,7 +35,7 @@
         "link": {
           "attributes": {
             "rel": "related",
-            "href": "https://itunes.apple.com/fr/review?id=1544760744&l=en&type=Purple%20Software"
+            "href": "https://itunes.apple.com/se/review?id=1544760744&l=en&type=Purple%20Software"
           }
         },
         "im:voteSum": {
@@ -50,25 +50,25 @@
         "im:voteCount": {
           "label": "0"
         },
-        "cc": "fr",
-        "ty_review_type": "1",
-        "ty_question_type": "7",
-        "content_translate": "夜视只能激活，无法从应用程序激活它",
-        "title_translate": "视觉夜曲",
-        "_XID": "row_193"
+        "cc": "se",
+        "ty_review_type": "2",
+        "ty_question_type": "3",
+        "content_translate": "无用的应用程序，与 ugrow 一样糟糕。 Ugrow被这个取代了。本以为会好起来，但事实并非如此。声音和图像都断断续续，您经常会遇到“无法获取视频流”的情况。这个问题怎么还没解决呢？照顾我们的孩子是最重要的事情。丑闻是这个价格的产品效果并不好。",
+        "title_translate": "仍然像ugrow一样不稳定",
+        "_XID": "row_13"
       },
       {
         "author": {
           "uri": {
-            "label": "https://itunes.apple.com/nl/reviews/id276624824?l=en"
+            "label": "https://itunes.apple.com/at/reviews/id457472616?l=en"
           },
           "name": {
-            "label": "IBrinla"
+            "label": "papi7443567346"
           },
           "label": ""
         },
         "updated": {
-          "label": "2023-07-20T00:38:40-07:00"
+          "label": "2023-06-18T11:54:06-07:00"
         },
         "im:rating": {
           "label": "1"
@@ -77,13 +77,13 @@
           "label": "1.0.7"
         },
         "id": {
-          "label": "10160548430"
+          "label": "10047650470"
         },
         "title": {
-          "label": "This update is really annoying"
+          "label": "Instabil"
         },
         "content": {
-          "label": "Since the update the monitor struggles with connection and via Phone almost not reachable. Really frustrating.",
+          "label": "Leider sehr instabile app!\nHängt sich immer wieder auf und verliert oft die Verbindung.",
           "attributes": {
             "type": "text"
           }
@@ -91,7 +91,7 @@
         "link": {
           "attributes": {
             "rel": "related",
-            "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+            "href": "https://itunes.apple.com/at/review?id=1544760744&l=en&type=Purple%20Software"
           }
         },
         "im:voteSum": {
@@ -106,12 +106,12 @@
         "im:voteCount": {
           "label": "0"
         },
-        "cc": "nl",
+        "cc": "at",
         "ty_review_type": "2",
         "ty_question_type": "3",
-        "content_translate": "自更新以来，显示器难以连接，并且通过电话几乎无法访问。真是令人沮丧。",
-        "title_translate": "这次更新真的很烦人",
-        "_XID": "row_194"
+        "content_translate": "不幸的是应用程序非常不稳定！一直挂起并且经常失去连接。",
+        "title_translate": "不稳定",
+        "_XID": "row_14"
       },
       {
         "author": {
@@ -163,39 +163,39 @@
           "label": "0"
         },
         "cc": "ch",
-        "ty_review_type": "3",
-        "ty_question_type": "11",
+        "ty_review_type": "1",
+        "ty_question_type": "7",
         "content_translate": "亲爱的飞利浦团队，该应用程序很棒，我们非常满意。如果有一个TV应用程序那就太酷了。这肯定会使产品更加完美。",
         "title_translate": "超级应用程序",
-        "_XID": "row_195"
+        "_XID": "row_15"
       },
       {
         "author": {
           "uri": {
-            "label": "https://itunes.apple.com/be/reviews/id86072622"
+            "label": "https://itunes.apple.com/pl/reviews/id143413977"
           },
           "name": {
-            "label": "Gregory bauwens"
+            "label": "wojtwarszawa"
           },
           "label": ""
         },
         "updated": {
-          "label": "2023-07-11T11:37:16-07:00"
+          "label": "2023-07-29T12:15:17-07:00"
         },
         "im:rating": {
-          "label": "3"
+          "label": "1"
         },
         "im:version": {
           "label": "1.0.7"
         },
         "id": {
-          "label": "10129278548"
+          "label": "10196715110"
         },
         "title": {
-          "label": "Tweede telefoon"
+          "label": "Urządzenie świetne, aplikacja marna"
         },
         "content": {
-          "label": "Wanneer ik de app instaleer lukt dit op mijn telefoon om te connecteren maar wanneer ik de app dan instaleer op mijn vrouw haar gsm dan lukt dit niet om connectie te maken..\n\nKan dit gewoon niet op twee gsm misschien??",
+          "label": "1. Nie umie zczytac wifi z telefonu tylko trzeba podać hasło manualnie. \n2. Skanowanie kodu irytujące i nie dziala\n3. Czemu trzeba dodawać i parować używając kamery zamiast modułu.\n\nOgólnie do dopracowania",
           "attributes": {
             "type": "text"
           }
@@ -203,7 +203,7 @@
         "link": {
           "attributes": {
             "rel": "related",
-            "href": "https://itunes.apple.com/be/review?id=1544760744&type=Purple%20Software"
+            "href": "https://itunes.apple.com/pl/review?id=1544760744&type=Purple%20Software"
           }
         },
         "im:voteSum": {
@@ -218,40 +218,40 @@
         "im:voteCount": {
           "label": "0"
         },
-        "cc": "be",
+        "cc": "pl",
         "ty_review_type": "1",
-        "ty_question_type": "11",
-        "content_translate": "当我在我的手机上安装应用程序时，我成功连接，但是当我在我妻子的手机上安装应用程序时，我无法连接，这在两部手机上根本不可能吗？",
-        "title_translate": "第二个电话",
-        "_XID": "row_196"
+        "ty_question_type": "7",
+        "content_translate": "1.无法从手机读取WiFi，需要手动输入密码。 2.扫码很烦人，不起作用 3.为什么需要使用摄像头而不是模块来添加和配对。总体来说还需要完善",
+        "title_translate": "设备很好，应用很差",
+        "_XID": "row_16"
       },
       {
         "author": {
           "uri": {
-            "label": "https://itunes.apple.com/be/reviews/id283393109"
+            "label": "https://itunes.apple.com/de/reviews/id513182504?l=en"
           },
           "name": {
-            "label": "Sjsjajai"
+            "label": "??? I’m"
           },
           "label": ""
         },
         "updated": {
-          "label": "2023-07-09T14:02:48-07:00"
+          "label": "2023-07-06T15:57:43-07:00"
         },
         "im:rating": {
-          "label": "5"
+          "label": "2"
         },
         "im:version": {
           "label": "1.0.7"
         },
         "id": {
-          "label": "10122243944"
+          "label": "10111652485"
         },
         "title": {
-          "label": "Top!"
+          "label": "Verärgerung"
         },
         "content": {
-          "label": "Zeer tevreden van de applicatie!",
+          "label": "Das Babyphone verliert oft die Verbindung zur Kamera. Es ist nervig ... wir müssen Telefone als Empfänger verwenden.",
           "attributes": {
             "type": "text"
           }
@@ -259,7 +259,7 @@
         "link": {
           "attributes": {
             "rel": "related",
-            "href": "https://itunes.apple.com/be/review?id=1544760744&type=Purple%20Software"
+            "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
           }
         },
         "im:voteSum": {
@@ -274,40 +274,40 @@
         "im:voteCount": {
           "label": "0"
         },
-        "cc": "be",
-        "ty_review_type": "3",
-        "ty_question_type": "11",
-        "content_translate": "对申请非常满意！",
-        "title_translate": "顶部！",
-        "_XID": "row_197"
+        "cc": "de",
+        "ty_review_type": "2",
+        "ty_question_type": "3",
+        "content_translate": "婴儿监视器经常与摄像头失去连接。这很烦人……我们必须使用手机作为接收器。",
+        "title_translate": "烦恼",
+        "_XID": "row_17"
       },
       {
         "author": {
           "uri": {
-            "label": "https://itunes.apple.com/hr/reviews/id369264762"
+            "label": "https://itunes.apple.com/de/reviews/id185067299?l=en"
           },
           "name": {
-            "label": "Bubba spara"
+            "label": "jessep."
           },
           "label": ""
         },
         "updated": {
-          "label": "2023-07-01T11:20:06-07:00"
+          "label": "2023-06-27T03:32:12-07:00"
         },
         "im:rating": {
-          "label": "5"
+          "label": "1"
         },
         "im:version": {
           "label": "1.0.7"
         },
         "id": {
-          "label": "10093243322"
+          "label": "10077471220"
         },
         "title": {
-          "label": "Amazing"
+          "label": "Baby Monitor +"
         },
         "content": {
-          "label": "Just excellent!",
+          "label": "Als solches gefällt mir die App, leider fehlt die BILD-in-BILD Funktion scheinbar gänzlich. Somit ist sie für mich auf dem iPhone obsolet. \n\nIch möchte mein iPhone weiter nutzen können, während ich das Bild des Babyfons sehe. \nFür den Kaufpreis erwarte ich das ganz einfach.",
           "attributes": {
             "type": "text"
           }
@@ -315,7 +315,63 @@
         "link": {
           "attributes": {
             "rel": "related",
-            "href": "https://itunes.apple.com/hr/review?id=1544760744&type=Purple%20Software"
+            "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "1"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "1"
+        },
+        "cc": "de",
+        "ty_review_type": "1",
+        "ty_question_type": "7",
+        "content_translate": "因此，我喜欢这个应用程序，但不幸的是，画中画功能似乎完全缺失。所以它对我来说在 iPhone 上已经过时了。我希望能够在查看婴儿监视器图像的同时继续使用 iPhone。对于购买价格，我预计这会很容易。",
+        "title_translate": "婴儿监视器 +",
+        "_XID": "row_18"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/de/reviews/id103932236?l=en"
+          },
+          "name": {
+            "label": "Fab__1"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2023-06-26T05:12:19-07:00"
+        },
+        "im:rating": {
+          "label": "4"
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "10074183471"
+        },
+        "title": {
+          "label": "Grundsätzlich super, use-case Urlaub fehlt leider"
+        },
+        "content": {
+          "label": "Für den Einsatz im privaten wlan und bei Freunden super und eine top Ergänzung zum Monitor. \nLeider ist bei öffentlichen WLANs oft noch eine Bestätigung im Browser/ Eingabe eines Passworts erforderlich (zb im Hotel). Diese Funktion unterstützt die App leider nicht. \nWäre ein sehr wünschenswertes Update.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
           }
         },
         "im:voteSum": {
@@ -330,12 +386,68 @@
         "im:voteCount": {
           "label": "0"
         },
-        "cc": "hr",
-        "ty_question_type": "11",
-        "ty_review_type": "3",
-        "content_translate": "太棒了！",
-        "title_translate": "惊人的",
-        "_XID": "row_198"
+        "cc": "de",
+        "ty_review_type": "1",
+        "ty_question_type": "7",
+        "content_translate": "非常适合在私人 WiFi 环境中以及与朋友一起使用，也是显示器的绝佳补充。遗憾的是，公共 WLAN 通常需要在浏览器中进行确认/输入密码（例如在酒店中）。不幸的是，该应用程序不支持此功能。将是一个非常理想的更新。",
+        "title_translate": "基本上很棒，遗憾的是缺少用例假期",
+        "_XID": "row_19"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": "https://itunes.apple.com/de/reviews/id431629849?l=en"
+          },
+          "name": {
+            "label": "Fisch241185"
+          },
+          "label": ""
+        },
+        "updated": {
+          "label": "2023-06-24T12:45:49-07:00"
+        },
+        "im:rating": {
+          "label": "2"
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "10068648927"
+        },
+        "title": {
+          "label": "Schlechter Akku und Bildqualität"
+        },
+        "content": {
+          "label": "Akku hält keine 12 std, eher 6 h. Bild könnte schärfer sein. Verbindung zum Monitor und in der App ist manchmal schlecht. Für 300€ echt viel zu teuer.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+          }
+        },
+        "im:voteSum": {
+          "label": "0"
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": "0"
+        },
+        "cc": "de",
+        "ty_review_type": "2",
+        "ty_question_type": "5",
+        "content_translate": "电池续航时间不是 12 小时，而是 6 小时。图像可以更清晰。与显示器和应用程序的连接有时很差。 300 欧元确实太贵了。",
+        "title_translate": "电池和图像质量差",
+        "_XID": "row_20"
       },
       {
         "author": {
@@ -391,9 +503,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "sg",
         "ty_review_type": "3",
         "ty_question_type": "11",
-        "_XID": "row_199"
+        "_XID": "row_21"
       },
       {
         "author": {
@@ -449,9 +562,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "sg",
         "ty_review_type": "2",
         "ty_question_type": "4",
-        "_XID": "row_200"
+        "_XID": "row_22"
       },
       {
         "author": {
@@ -507,9 +621,10 @@
         "os": {
           "label": "android"
         },
-        "ty_review_type": "1",
+        "cc": "sg",
+        "ty_review_type": "3",
         "ty_question_type": "7",
-        "_XID": "row_201"
+        "_XID": "row_357"
       },
       {
         "author": {
@@ -565,9 +680,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "sg",
         "ty_review_type": "1",
         "ty_question_type": "7",
-        "_XID": "row_202"
+        "_XID": "row_358"
       },
       {
         "author": {
@@ -623,473 +739,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "sg",
         "ty_review_type": "1",
         "ty_question_type": "7",
-        "_XID": "row_365"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Anne Koet"
-          },
-          "label": "Anne Koet"
-        },
-        "updated": {
-          "label": "2023-08-02T20:58:47Z"
-        },
-        "im:rating": {
-          "label": 2
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "bfea8ba6-0134-4094-8f57-5bb6869a989a"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "slechte verbinding, valt vaak midden in de nacht uit en dan krijgen we een heel luid signaal.",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "连接很差，经常在半夜断电，然后我们会收到很大的信号。",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "2",
-        "ty_question_type": "3",
-        "_XID": "row_366"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Timucin Ozkan"
-          },
-          "label": "Timucin Ozkan"
-        },
-        "updated": {
-          "label": "2023-07-25T17:18:32Z"
-        },
-        "im:rating": {
-          "label": 5
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "99c86e25-3477-446c-b0e6-0ed65b98c12c"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "superrrr",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "超级",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "3",
-        "ty_question_type": "11",
-        "_XID": "row_367"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Tim V"
-          },
-          "label": "Tim V"
-        },
-        "updated": {
-          "label": "2023-07-20T05:28:53Z"
-        },
-        "im:rating": {
-          "label": 3
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "b05b194f-4b45-457a-b2de-192786f087f9"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "Erg goed. Jammer dat er maar 1 gebruiker de meldingen kan ontvangen. Er zijn vaker meer dan 1 ouder, dit is wel een basis functie die nu mist. Verder werkt het tot nu toe prima. Het instellen van de camera in de app werk ook alleen als je (internet) verkeer van/naar china toe laat. Dit is enkel bij het installeren van de camera in de app. Hier thuis de blokkade op de firewall van/naar China moeten uitzetten voor dit lukte.",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "非常好。可惜只有 1 位用户可以收到通知。通常有不止 1 个父级，这是目前缺少的基本功能。除此之外，到目前为止它运行良好。仅当您允许进出中国的（互联网）流量时，才能在应用程序中设置相机。仅当在应用程序中安装相机时才会出现此情况。在家里，我必须先禁用进出中国的防火墙封锁，然后才能生效。",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "1",
-        "ty_question_type": "1",
-        "_XID": "row_368"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Lars"
-          },
-          "label": "Lars"
-        },
-        "updated": {
-          "label": "2023-07-08T02:01:06Z"
-        },
-        "im:rating": {
-          "label": 1
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "af9d7022-57fd-4246-bd07-e69a540c673d"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "Connection lost/instable (via Wifi) of the Baby Monitor Unit when stepping out of range of normal Radio antenne. Baby monitor should transfer to Wifi connection (with connection -> wifi & direct enabled), but only gives an error that it's not possible to connect with the camera. Camera is working fine via the app. This issue is caused by the latest firmware updates, as there were no issues in previous versions. How can I reach out to Firmware support of the baby monitor unit? Can't find it....",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "当超出正常无线电天线的范围时，婴儿监视器装置的连接丢失/不稳定（通过 Wifi）。婴儿监视器应该转移到 Wifi 连接（连接 -&gt; WiFi 和直接启用），但只给出无法与相机连接的错误。相机通过应用程序工作正常。这个问题是由最新的固件更新引起的，之前的版本没有问题。我如何联系婴儿监视器的固件支持？找不到....",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "2",
-        "ty_question_type": "3",
-        "_XID": "row_369"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Eva Gori"
-          },
-          "label": "Eva Gori"
-        },
-        "updated": {
-          "label": "2023-07-06T04:01:10Z"
-        },
-        "im:rating": {
-          "label": 4
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "110d191f-dd78-4730-9824-4b4de7bf3c00"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "goede ontvangst, goed beeld. zou wel fijn zijn als alle gebruikers dezelfde mogelijkheden zouden hebben (nu mag degene die hem als eerste installeert meer)",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "良好的接待，良好的图片。如果所有用户都有相同的选项，那就太好了（现在第一个安装它的人会得到更多）",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "3",
-        "ty_question_type": "11",
-        "_XID": "row_370"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Ravi Harpal"
-          },
-          "label": "Ravi Harpal"
-        },
-        "updated": {
-          "label": "2023-06-21T02:39:10Z"
-        },
-        "im:rating": {
-          "label": 4
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "7b96eba9-0800-41d6-b243-51ef0ae95c25"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "alleen jammer dat je geen losse camera erbij kan kopen zonder de monitor",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "遗憾的是你不能购买没有显示器的单独相机",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 0
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 0
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "1",
-        "ty_question_type": "11",
-        "_XID": "row_371"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Thomas van Rooij"
-          },
-          "label": "Thomas van Rooij"
-        },
-        "updated": {
-          "label": "2023-06-20T02:53:13Z"
-        },
-        "im:rating": {
-          "label": 1
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "0159d3af-41ba-44bb-a6c6-a08153bf7d8f"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "Werkt voor geen meter, raakt continue verbinding kwijt.",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "根本用不了，老是断线。",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 1
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 1
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "2",
-        "ty_question_type": "3",
-        "_XID": "row_372"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "Jan-Willem van Velzen"
-          },
-          "label": "Jan-Willem van Velzen"
-        },
-        "updated": {
-          "label": "2023-06-16T05:54:17Z"
-        },
-        "im:rating": {
-          "label": 5
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "389a351b-86a3-42a9-a8fc-d758e3ee37c0"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "2 Kleine bugreports die binnen 4 sprints opgepakt en verholpen waren! Een heel fijne app, handig en betrouwbaar. Ga zo door :D",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "2 个小错误报告在 4 个冲刺内得到解决！一个非常好的应用程序，方便且可靠。坚持下去 :D",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 1
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 1
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "3",
-        "ty_question_type": "11",
-        "_XID": "row_373"
+        "_XID": "row_359"
       },
       {
         "author": {
@@ -1145,9 +798,10 @@
         "os": {
           "label": "android"
         },
-        "ty_review_type": "1",
-        "ty_question_type": "7",
-        "_XID": "row_374"
+        "cc": "fr",
+        "ty_review_type": "2",
+        "ty_question_type": "5",
+        "_XID": "row_360"
       },
       {
         "author": {
@@ -1203,9 +857,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "fr",
         "ty_review_type": "2",
         "ty_question_type": "3",
-        "_XID": "row_375"
+        "_XID": "row_361"
       },
       {
         "author": {
@@ -1261,9 +916,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "fr",
         "ty_review_type": "2",
-        "ty_question_type": "4",
-        "_XID": "row_376"
+        "ty_question_type": "2",
+        "_XID": "row_362"
       },
       {
         "author": {
@@ -1319,9 +975,482 @@
         "os": {
           "label": "android"
         },
+        "cc": "fr",
+        "ty_review_type": "2",
+        "ty_question_type": "5",
+        "_XID": "row_363"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Anne Koet"
+          },
+          "label": "Anne Koet"
+        },
+        "updated": {
+          "label": "2023-08-02T20:58:47Z"
+        },
+        "im:rating": {
+          "label": 2
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "bfea8ba6-0134-4094-8f57-5bb6869a989a"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "slechte verbinding, valt vaak midden in de nacht uit en dan krijgen we een heel luid signaal.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "连接很差，经常在半夜断电，然后我们会收到很大的信号。",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "2",
+        "ty_question_type": "5",
+        "_XID": "row_364"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Timucin Ozkan"
+          },
+          "label": "Timucin Ozkan"
+        },
+        "updated": {
+          "label": "2023-07-25T17:18:32Z"
+        },
+        "im:rating": {
+          "label": 5
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "99c86e25-3477-446c-b0e6-0ed65b98c12c"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "superrrr",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "超级",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "3",
+        "ty_question_type": "11",
+        "_XID": "row_365"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Tim V"
+          },
+          "label": "Tim V"
+        },
+        "updated": {
+          "label": "2023-07-20T05:28:53Z"
+        },
+        "im:rating": {
+          "label": 3
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "b05b194f-4b45-457a-b2de-192786f087f9"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "Erg goed. Jammer dat er maar 1 gebruiker de meldingen kan ontvangen. Er zijn vaker meer dan 1 ouder, dit is wel een basis functie die nu mist. Verder werkt het tot nu toe prima. Het instellen van de camera in de app werk ook alleen als je (internet) verkeer van/naar china toe laat. Dit is enkel bij het installeren van de camera in de app. Hier thuis de blokkade op de firewall van/naar China moeten uitzetten voor dit lukte.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "非常好。可惜只有 1 位用户可以收到通知。通常有不止 1 个父级，这是目前缺少的基本功能。除此之外，到目前为止它运行良好。仅当您允许进出中国的（互联网）流量时，才能在应用程序中设置相机。仅当在应用程序中安装相机时才会出现此情况。在家里，我必须先禁用进出中国的防火墙封锁，然后才能生效。",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "3",
+        "ty_question_type": "7",
+        "_XID": "row_366"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Lars"
+          },
+          "label": "Lars"
+        },
+        "updated": {
+          "label": "2023-07-08T02:01:06Z"
+        },
+        "im:rating": {
+          "label": 1
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "af9d7022-57fd-4246-bd07-e69a540c673d"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "Connection lost/instable (via Wifi) of the Baby Monitor Unit when stepping out of range of normal Radio antenne. Baby monitor should transfer to Wifi connection (with connection -> wifi & direct enabled), but only gives an error that it's not possible to connect with the camera. Camera is working fine via the app. This issue is caused by the latest firmware updates, as there were no issues in previous versions. How can I reach out to Firmware support of the baby monitor unit? Can't find it....",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "当超出正常无线电天线的范围时，婴儿监视器装置的连接丢失/不稳定（通过 Wifi）。婴儿监视器应该转移到 Wifi 连接（连接 -&gt; wifi 和直接启用），但只给出无法与相机连接的错误。相机通过应用程序工作正常。这个问题是由最新的固件更新引起的，之前的版本没有问题。我如何联系婴儿监视器的固件支持？找不到....",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "2",
+        "ty_question_type": "5",
+        "_XID": "row_194"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Eva Gori"
+          },
+          "label": "Eva Gori"
+        },
+        "updated": {
+          "label": "2023-07-06T04:01:10Z"
+        },
+        "im:rating": {
+          "label": 4
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "110d191f-dd78-4730-9824-4b4de7bf3c00"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "goede ontvangst, goed beeld. zou wel fijn zijn als alle gebruikers dezelfde mogelijkheden zouden hebben (nu mag degene die hem als eerste installeert meer)",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "良好的接待，良好的图片。如果所有用户都有相同的选项，那就太好了（现在第一个安装它的人会得到更多）",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "3",
+        "ty_question_type": "11",
+        "_XID": "row_195"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Ravi Harpal"
+          },
+          "label": "Ravi Harpal"
+        },
+        "updated": {
+          "label": "2023-06-21T02:39:10Z"
+        },
+        "im:rating": {
+          "label": 4
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "7b96eba9-0800-41d6-b243-51ef0ae95c25"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "alleen jammer dat je geen losse camera erbij kan kopen zonder de monitor",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "遗憾的是你不能购买没有显示器的单独相机",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 0
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 0
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "1",
+        "ty_question_type": "7",
+        "_XID": "row_196"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Thomas van Rooij"
+          },
+          "label": "Thomas van Rooij"
+        },
+        "updated": {
+          "label": "2023-06-20T02:53:13Z"
+        },
+        "im:rating": {
+          "label": 1
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "0159d3af-41ba-44bb-a6c6-a08153bf7d8f"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "Werkt voor geen meter, raakt continue verbinding kwijt.",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "根本用不了，老是断线。",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 1
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 1
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
         "ty_review_type": "2",
         "ty_question_type": "3",
-        "_XID": "row_377"
+        "_XID": "row_197"
+      },
+      {
+        "author": {
+          "uri": {
+            "label": ""
+          },
+          "name": {
+            "label": "Jan-Willem van Velzen"
+          },
+          "label": "Jan-Willem van Velzen"
+        },
+        "updated": {
+          "label": "2023-06-16T05:54:17Z"
+        },
+        "im:rating": {
+          "label": 5
+        },
+        "im:version": {
+          "label": "1.0.7"
+        },
+        "id": {
+          "label": "389a351b-86a3-42a9-a8fc-d758e3ee37c0"
+        },
+        "title": {
+          "label": ""
+        },
+        "content": {
+          "label": "2 Kleine bugreports die binnen 4 sprints opgepakt en verholpen waren! Een heel fijne app, handig en betrouwbaar. Ga zo door :D",
+          "attributes": {
+            "type": "text"
+          }
+        },
+        "content_translate": "2 个小错误报告在 4 个冲刺内得到解决！一个非常好的应用程序，方便且可靠。坚持下去 :D",
+        "title_translate": "",
+        "link": {
+          "attributes": {
+            "rel": "related",
+            "href": ""
+          }
+        },
+        "im:voteSum": {
+          "label": 1
+        },
+        "im:contentType": {
+          "attributes": {
+            "term": "Application",
+            "label": "Application"
+          }
+        },
+        "im:voteCount": {
+          "label": 1
+        },
+        "os": {
+          "label": "android"
+        },
+        "cc": "nl",
+        "ty_review_type": "3",
+        "ty_question_type": "11",
+        "_XID": "row_198"
       },
       {
         "author": {
@@ -1377,67 +1506,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "cs",
         "ty_review_type": "2",
         "ty_question_type": "8",
-        "_XID": "row_378"
-      },
-      {
-        "author": {
-          "uri": {
-            "label": ""
-          },
-          "name": {
-            "label": "xcubik"
-          },
-          "label": "xcubik"
-        },
-        "updated": {
-          "label": "2023-08-08T03:07:24Z"
-        },
-        "im:rating": {
-          "label": 5
-        },
-        "im:version": {
-          "label": "1.0.7"
-        },
-        "id": {
-          "label": "228d6387-0989-48bf-b19f-246a9bf145d6"
-        },
-        "title": {
-          "label": ""
-        },
-        "content": {
-          "label": "Was macht ihr denn immer bei euren Updates? Es ist ja schön neue Features einzubauen, aber den Inline-Player braucht doch niemand. Ganz schlimm dabei ist, dass direkt wieder der Ton abspielt und wenn man ihn deaktiviert, die App schließt und wieder öffnet, ist der Ton wieder an. Update: Problem gelöst, daher 5 Sterne",
-          "attributes": {
-            "type": "text"
-          }
-        },
-        "content_translate": "您通常如何处理更新？添加新功能固然很好，但没有人需要内联播放器。真正糟糕的是声音立即再次开始播放，如果您停用它，关闭应用程序并再次打开它，声音会再次打开。更新：问题已解决，因此 5 星",
-        "title_translate": "",
-        "link": {
-          "attributes": {
-            "rel": "related",
-            "href": ""
-          }
-        },
-        "im:voteSum": {
-          "label": 1
-        },
-        "im:contentType": {
-          "attributes": {
-            "term": "Application",
-            "label": "Application"
-          }
-        },
-        "im:voteCount": {
-          "label": 1
-        },
-        "os": {
-          "label": "android"
-        },
-        "ty_review_type": "3",
-        "ty_question_type": "11",
-        "_XID": "row_379"
+        "_XID": "row_199"
       },
       {
         "author": {
@@ -1493,9 +1565,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "de",
         "ty_review_type": "2",
         "ty_question_type": "3",
-        "_XID": "row_380"
+        "_XID": "row_200"
       },
       {
         "author": {
@@ -1551,9 +1624,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "de",
         "ty_review_type": "3",
         "ty_question_type": "11",
-        "_XID": "row_381"
+        "_XID": "row_201"
       },
       {
         "author": {
@@ -1586,7 +1660,7 @@
             "type": "text"
           }
         },
-        "content_translate": "不幸的是，该应用程序一点也不复杂，而且极其危险，因为它假装不存在安全性。有时画面定格，运动警报响起，但声音仍在继续，所以你会想：孩子正在安稳地睡觉。遗憾的是应用程序在这里没有报告任何错误。背景设置的问题和其他已经在这里被批评过几次的问题对于 300 欧元的产品来说是不行的。",
+        "content_translate": "不幸的是，该应用程序一点也不复杂，而且极其危险，因为它假装不存在安全性。有时画面定格，运动警报响起，但声音仍在继续，所以你会想：孩子正在安静地睡觉。遗憾的是应用程序在这里没有报告任何错误。背景设置的问题和其他已经在这里被批评过几次的问题对于 300 欧元的产品来说是不行的。",
         "title_translate": "",
         "link": {
           "attributes": {
@@ -1609,9 +1683,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "de",
         "ty_review_type": "2",
         "ty_question_type": "3",
-        "_XID": "row_382"
+        "_XID": "row_202"
       },
       {
         "author": {
@@ -1667,9 +1742,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "de",
         "ty_review_type": "3",
         "ty_question_type": "11",
-        "_XID": "row_383"
+        "_XID": "row_203"
       },
       {
         "author": {
@@ -1725,9 +1801,10 @@
         "os": {
           "label": "android"
         },
+        "cc": "de",
         "ty_review_type": "1",
         "ty_question_type": "7",
-        "_XID": "row_384"
+        "_XID": "row_193"
       }
     ]
   }

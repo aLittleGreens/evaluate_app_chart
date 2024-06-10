@@ -68,9 +68,11 @@ class _RatingChartState extends State<RatingChart> {
   // List
 
   List<PieChartSectionData> showingSections(bool min) {
+    double screenWidth = MediaQuery.of(context).size.width;
+
     return List.generate(starList!.length, (i) {
       final fontSize = min ? 10.0 : 18.0;
-      final radius = min ? 40.0 : 250.0;
+      final radius = min ? 40.0 : screenWidth/6.5;
       const shadows = [Shadow(color: Colors.black, blurRadius: 2)];
       var starBean = starList![i];
       return PieChartSectionData(

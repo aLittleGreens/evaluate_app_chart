@@ -70,7 +70,6 @@ Future decodeComment(String version) async {
     String ty_question_type = item['ty_question_type'];
     print('author: $author, rating: $rating,version:$version title:$title');
     _TotalRating += int.tryParse(rating)!;
-
     var evalutebean = Evalutebean(
         id,
         author,
