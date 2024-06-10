@@ -370,6 +370,7 @@ class _MyHomePageState extends State<MyHomePage> {
                             allowHalfRating: true,
                             itemCount: 5,
                             itemSize: 25,
+                            ignoreGestures: true,
                             itemPadding: const EdgeInsets.symmetric(
                                 horizontal: 3.0),
                             itemBuilder: (context, _) =>
@@ -480,6 +481,7 @@ class _MyHomePageState extends State<MyHomePage> {
                         allowHalfRating: true,
                         itemCount: 5,
                         itemSize: 25,
+                        ignoreGestures: true,
                         itemPadding: const EdgeInsets.symmetric(
                             horizontal: 3.0),
                         itemBuilder: (context, _) =>
