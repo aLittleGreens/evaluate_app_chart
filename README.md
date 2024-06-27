@@ -1,6 +1,7 @@
 # 应用评价系统
 
 查看、筛选应用市场评价（AppStore、Google Play），并对评论进行分类，以图表的方式查看问题分布、变化趋势。
+欢迎大家fork项目，和我一起扩展这个项目
 
 技术栈：
 数据抓取采用Python，([Python项目链接](https://github.com/aLittleGreens/app_report))前端采用Flutter
