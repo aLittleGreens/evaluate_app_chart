@@ -26,7 +26,7 @@ appid_android = 'com.philips.ph.babymonitorplus'
 将Json文件导入到[评论分类](https://alittlegreens.github.io/app_report/#/) 进行分类
 
 
-## 三、将分类好的评论json导入[Flutter项目](https://github.com/aLittleGreens/evaluate_app_chart)中
+## 三、将分类好的评论json导入[Flutter项目](https://github.com/aLittleGreens/evaluate_app_chart) 目录assets/comment中
 
 ## 四、打包后部署到github上
 
