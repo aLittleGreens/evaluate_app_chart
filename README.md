@@ -7,7 +7,9 @@
 
 
 技术栈：
-数据抓取采用Python，(链接](https://github.com/aLittleGreens/app_report))前端采用Flutter
+数据抓取采用Python，(链接](https://github.com/aLittleGreens/app_report)
+
+前端采用Flutter
 
 # Getting Started
 ## 一、抓取应用数据
