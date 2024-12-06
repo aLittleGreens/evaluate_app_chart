@@ -1,0 +1,572 @@
+{
+    "feed": {
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/fr/reviews/id212976217?l=en"
+                    },
+                    "name": {
+                        "label": "Grisoussssss"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-03T12:52:24-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "12022226822"
+                },
+                "title": {
+                    "label": "Tableau de bord probl\u00e8me"
+                },
+                "content": {
+                    "label": "Le tableau de bord n\u2019affiche plus aucune donn\u00e9e et a fait perde toute les donnes enregistr\u00e9es ! C\u2019est tr\u00e8s emb\u00eatant et contraignant !!!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/fr/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4eea\u8868\u677f\u4e0d\u518d\u663e\u793a\u4efb\u4f55\u6570\u636e\u5e76\u4e14\u4e22\u5931\u4e86\u6240\u6709\u8bb0\u5f55\u7684\u6570\u636e\uff01\u8fd9\u662f\u975e\u5e38\u70e6\u4eba\u548c\u9650\u5236\u6027\u7684\uff01",
+                "title_translate": "\u4eea\u8868\u677f\u95ee\u9898"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/pl/reviews/id1360745836"
+                    },
+                    "name": {
+                        "label": "mtx3n"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-11-24T12:01:01-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "11987790375"
+                },
+                "title": {
+                    "label": "recently something happened"
+                },
+                "content": {
+                    "label": "edit: thanks for reply it worked, leaving original comment and updating stars. but it would be great to not do it manually \n\nso it was working great for 6 months, suddenly it has issues with connecting to monitor. some green light appears on Monitor and then it\u2019s not working via app. after couple minutes (with no interaction or fix from my side) green light disappear and app can connect to monitor again. it\u2019s happening very often. nothing has changed in our environment (wifi is the same, setup is the same) so it has to be firmware. fix it please.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/pl/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "pl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u7f16\u8f91\uff1a\u611f\u8c22\u60a8\u7684\u56de\u590d\uff0c\u5b83\u6709\u6548\uff0c\u7559\u4e0b\u539f\u59cb\u8bc4\u8bba\u5e76\u66f4\u65b0\u661f\u661f\u3002\u4f46\u6700\u597d\u4e0d\u8981\u624b\u52a8\u6267\u884c\u6b64\u64cd\u4f5c\uff0c\u56e0\u6b64\u5b83\u5de5\u4f5c\u4e86 6 \u4e2a\u6708\uff0c\u7a81\u7136\u51fa\u73b0\u8fde\u63a5\u663e\u793a\u5668\u7684\u95ee\u9898\u3002\u76d1\u89c6\u5668\u4e0a\u51fa\u73b0\u4e00\u4e9b\u7eff\u706f\uff0c\u7136\u540e\u5b83\u65e0\u6cd5\u901a\u8fc7\u5e94\u7528\u7a0b\u5e8f\u8fd0\u884c\u3002\u51e0\u5206\u949f\u540e\uff08\u6211\u8fd9\u8fb9\u6ca1\u6709\u4ea4\u4e92\u6216\u4fee\u590d\uff09\u7eff\u706f\u6d88\u5931\uff0c\u5e94\u7528\u7a0b\u5e8f\u53ef\u4ee5\u518d\u6b21\u8fde\u63a5\u5230\u663e\u793a\u5668\u3002\u8fd9\u79cd\u4e8b\u7ecf\u5e38\u53d1\u751f\u3002\u6211\u4eec\u7684\u73af\u5883\u6ca1\u6709\u4efb\u4f55\u53d8\u5316\uff08wifi \u662f\u76f8\u540c\u7684\uff0c\u8bbe\u7f6e\u662f\u76f8\u540c\u7684\uff09\uff0c\u6240\u4ee5\u5b83\u5fc5\u987b\u662f\u56fa\u4ef6\u3002\u8bf7\u4fee\u590d\u5b83\u3002",
+                "title_translate": "\u6700\u8fd1\u53d1\u751f\u4e86\u4e00\u4e9b\u4e8b\u60c5"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Elora -"
+                    },
+                    "label": "Elora -"
+                },
+                "updated": {
+                    "label": "2024-12-04T04:22:01Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "18ff5c92-1f21-4ef9-82f2-fb93ce2e938d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "L'application est tr\u00e8s bien mais j'ai un bug sur mon Google pixel, la rotation du t\u00e9l\u00e9phone pour mettre l'image en plein \u00e9cran bug. L'image ne fait que se tourner en mode portrait puis paysage sans jamais s'arr\u00eater.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u975e\u5e38\u597d\uff0c\u4f46\u6211\u7684 Google Pixel \u4e0a\u6709\u4e00\u4e2a\u9519\u8bef\uff0c\u65cb\u8f6c\u624b\u673a\u5c06\u56fe\u50cf\u5168\u5c4f\u663e\u793a\u9519\u8bef\u3002\u56fe\u50cf\u4f1a\u4e0d\u505c\u5730\u65cb\u8f6c\u4e3a\u7eb5\u5411\uff0c\u7136\u540e\u6a2a\u5411\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Seb Cardo"
+                    },
+                    "label": "Seb Cardo"
+                },
+                "updated": {
+                    "label": "2024-11-27T04:56:12Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "71f3ad48-171a-4269-b5e0-90f8f8b8b34b"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "connection initiale chaotique. compte et cloud obligatoire. prestataire externe avec compte aussi pour l'analyse de pleurs finalement payante. tr\u00e8s d\u00e9\u00e7u",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6df7\u4e71\u7684\u521d\u59cb\u8fde\u63a5\u3002\u9700\u8981\u5e10\u6237\u548c\u4e91\u3002\u5916\u90e8\u670d\u52a1\u5546\u7684\u8d26\u53f7\u4e5f\u4e3a\u5206\u6790\u6cea\u6c34\u6700\u7ec8\u4ed8\u51fa\u4e86\u4ee3\u4ef7\u3002\u975e\u5e38\u5931\u671b",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "KH Cheung"
+                    },
+                    "label": "KH Cheung"
+                },
+                "updated": {
+                    "label": "2024-11-21T13:58:58Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "8d17bb65-7af8-44a9-9ed5-e0f8c9780fbc"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Te dure aankoop voor wat het kan. Niet alles is instelbaar, zoals het meldingsgeluid op het scherm wanneer de verbinding met de camera verbroken is. Die vind ik te hard en kan het niet zachter zetten. Verder doet de app te lang over met verbinden met de camera, ook een vertraging van gemiddeld 3 sec. De app hebben we getest op 3 mobieltjes, de vertraging verschilt per telefoon. Ook wordt vaak de verbinding verbroken, terwijl het de kamer naast is (evenals router) Onbetrouwbaar na nieuwe update.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5c31\u5b83\u7684\u529f\u80fd\u800c\u8a00\uff0c\u8d2d\u4e70\u6210\u672c\u592a\u9ad8\u4e86\u3002\u5e76\u975e\u6240\u6709\u5185\u5bb9\u5747\u53ef\u8c03\u8282\uff0c\u4f8b\u5982\u4e0e\u76f8\u673a\u7684\u8fde\u63a5\u4e22\u5931\u65f6\u5c4f\u5e55\u4e0a\u7684\u901a\u77e5\u58f0\u97f3\u3002\u6211\u89c9\u5f97\u58f0\u97f3\u592a\u5927\u800c\u4e14\u65e0\u6cd5\u5173\u6389\u3002\u6b64\u5916\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u8fde\u63a5\u76f8\u673a\u7684\u65f6\u95f4\u8fc7\u957f\uff0c\u5e73\u5747\u5ef6\u8fdf\u4e3a 3 \u79d2\u3002\u6211\u4eec\u5728 3 \u90e8\u624b\u673a\u4e0a\u6d4b\u8bd5\u4e86\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u6bcf\u90e8\u624b\u673a\u7684\u5ef6\u8fdf\u5404\u4e0d\u76f8\u540c\u3002\u8fde\u63a5\u4e5f\u7ecf\u5e38\u65ad\u5f00\uff0c\u5373\u4f7f\u662f\u65c1\u8fb9\u7684\u623f\u95f4\uff08\u4ee5\u53ca\u65b0\u66f4\u65b0\u540e\u7684\u8def\u7531\u5668\uff09\u4e5f\u4e0d\u53ef\u9760\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 1
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 1
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Csaba Cs\u00e1sz\u00e1r"
+                    },
+                    "label": "Csaba Cs\u00e1sz\u00e1r"
+                },
+                "updated": {
+                    "label": "2024-12-03T14:07:14Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "7edc5051-76d2-427f-8191-2558fd5bd00d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "M\u00e1r a 2. alkalom, hogy telefonon az fogad, hogy nincs csatlakoztatott baba\u0151rz\u0151... Hetente \u00fajb\u00f3l hozz\u00e1 kell adni???",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8fd9\u662f\u60a8\u7b2c\u4e8c\u6b21\u5728\u7535\u8bdd\u4e2d\u88ab\u544a\u77e5\u6ca1\u6709\u8fde\u63a5\u5a74\u513f\u76d1\u89c6\u5668...\u60a8\u5fc5\u987b\u6bcf\u5468\u91cd\u65b0\u6dfb\u52a0\u4e00\u6b21\u5417\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Victor Mart\u00ednez"
+                    },
+                    "label": "Victor Mart\u00ednez"
+                },
+                "updated": {
+                    "label": "2024-11-26T10:31:26Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "bfbff334-8e41-4b78-bf4e-475e320b5ba9"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "muy conveniente para cuando debe dejar al beb\u00e9 por un momento y hay que estar al pendiente",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5f53\u60a8\u5fc5\u987b\u6682\u65f6\u79bb\u5f00\u5b9d\u5b9d\u5e76\u4e14\u5fc5\u987b\u7167\u770b\u5b83\u65f6\u975e\u5e38\u65b9\u4fbf",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
+                    },
+                    "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
+                },
+                "updated": {
+                    "label": "2024-11-26T23:30:40Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "ae03d099-68c0-4a0a-919e-af72a38e6a0d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Good quality of video, that's all. Very often it shows that there is no connection to the camera, or there is no camera at all. This problem is only with the application.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u89c6\u9891\u8d28\u91cf\u597d\uff0c\u4ec5\u6b64\u800c\u5df2\u3002\u5f88\u591a\u65f6\u5019\u5b83\u8868\u660e\u6ca1\u6709\u8fde\u63a5\u5230\u76f8\u673a\uff0c\u6216\u8005\u6839\u672c\u6ca1\u6709\u76f8\u673a\u3002\u6b64\u95ee\u9898\u4ec5\u4e0e\u5e94\u7528\u7a0b\u5e8f\u6709\u5173\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Mr.X"
+                    },
+                    "label": "Mr.X"
+                },
+                "updated": {
+                    "label": "2024-12-02T06:46:53Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "3141e22b-3445-4b4f-b465-f71ef7c4aadf"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Alles sch\u00f6n aber noch sch\u00f6ner w\u00e4re es wenn die App Bild in Bild zulassen w\u00fcrde, dann k\u00f6nnte man auf dem Falt Handy oder Tablet die App parallel laufen lassen auf Split sceen oder wenn man beim schlie\u00dfen ein frei bewegliches Fenster h\u00e4tte w\u00e4re supi.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u4e00\u5207\u90fd\u5f88\u597d\uff0c\u4f46\u5982\u679c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5141\u8bb8\u753b\u4e2d\u753b\uff0c\u90a3\u5c31\u66f4\u597d\u4e86\uff0c\u90a3\u4e48\u60a8\u53ef\u4ee5\u5728\u5206\u5c4f\u7684\u6298\u53e0\u624b\u673a\u6216\u5e73\u677f\u7535\u8111\u4e0a\u5e76\u884c\u8fd0\u884c\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u6216\u8005\u5982\u679c\u60a8\u5728\u5173\u95ed\u65f6\u6709\u4e00\u4e2a\u53ef\u81ea\u7531\u79fb\u52a8\u7684\u7a97\u53e3\uff0c\u90a3\u5c31\u592a\u597d\u4e86\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Sr\u0111an Gvozden"
+                    },
+                    "label": "Sr\u0111an Gvozden"
+                },
+                "updated": {
+                    "label": "2024-11-15T22:02:54Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "2c3ceb53-4abd-497f-833c-b81e5990f272"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Kad se na tabletu rotira slika ne ide preko cijelog zaslona. Do azuriranja je moglo a sad kad se azuriralo vise nema tu opciju. Lenovo tab m9. Azurirano i pobrisana kes memorija ali nema pomaka.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u65cb\u8f6c\u5e73\u677f\u7535\u8111\u65f6\uff0c\u56fe\u50cf\u4e0d\u4f1a\u586b\u6ee1\u6574\u4e2a\u5c4f\u5e55\u3002\u672c\u6765\u53ef\u4ee5\u66f4\u65b0\u7684\uff0c\u4f46\u662f\u73b0\u5728\u66f4\u65b0\u4e86\uff0c\u5c31\u6ca1\u6709\u8fd9\u4e2a\u9009\u9879\u4e86\u3002\u8054\u60f3 Tab m9.\u66f4\u65b0\u5e76\u6e05\u9664\u7f13\u5b58\uff0c\u4f46\u6ca1\u6709\u8fdb\u5c55\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            }
+        ]
+    }
+}

@@ -7,12 +7,13 @@ import '../bean/EvaluteBean.dart';
 import 'ListSingleton.dart';
 
 List<String> assetVersions = [
+  'assets/comment/v1.2.4_comment.json',
+  'assets/comment/v1.2.3_comment.json',
   'assets/comment/v1.1.1_comment.json',
   'assets/comment/v1.0.9_comment.json',
   'assets/comment/v1.0.7_comment.json',
   'assets/comment/v1.0.6_comment.json'
 ];
-
 
 
 String _averageRating = "";
