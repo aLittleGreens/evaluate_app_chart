@@ -4,6 +4,64 @@
             {
                 "author": {
                     "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Elora -"
+                    },
+                    "label": "Elora -"
+                },
+                "updated": {
+                    "label": "2024-12-04T04:22:01Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "18ff5c92-1f21-4ef9-82f2-fb93ce2e938d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "L'application est tr\u00e8s bien mais j'ai un bug sur mon Google pixel, la rotation du t\u00e9l\u00e9phone pour mettre l'image en plein \u00e9cran bug. L'image ne fait que se tourner en mode portrait puis paysage sans jamais s'arr\u00eater.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u975e\u5e38\u597d\uff0c\u4f46\u6211\u7684 Google Pixel \u4e0a\u6709\u4e00\u4e2a\u9519\u8bef\uff0c\u65cb\u8f6c\u624b\u673a\u5c06\u56fe\u50cf\u5168\u5c4f\u663e\u793a\u9519\u8bef\u3002\u56fe\u50cf\u4f1a\u4e0d\u505c\u5730\u65cb\u8f6c\u4e3a\u7eb5\u5411\uff0c\u7136\u540e\u6a2a\u5411\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
                         "label": "https://itunes.apple.com/fr/reviews/id212976217?l=en"
                     },
                     "name": {
@@ -55,6 +113,571 @@
                 "ty_question_type": "0",
                 "content_translate": "\u4eea\u8868\u677f\u4e0d\u518d\u663e\u793a\u4efb\u4f55\u6570\u636e\u5e76\u4e14\u4e22\u5931\u4e86\u6240\u6709\u8bb0\u5f55\u7684\u6570\u636e\uff01\u8fd9\u662f\u975e\u5e38\u70e6\u4eba\u548c\u9650\u5236\u6027\u7684\uff01",
                 "title_translate": "\u4eea\u8868\u677f\u95ee\u9898"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Csaba Cs\u00e1sz\u00e1r"
+                    },
+                    "label": "Csaba Cs\u00e1sz\u00e1r"
+                },
+                "updated": {
+                    "label": "2024-12-03T14:07:14Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "7edc5051-76d2-427f-8191-2558fd5bd00d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "M\u00e1r a 2. alkalom, hogy telefonon az fogad, hogy nincs csatlakoztatott baba\u0151rz\u0151... Hetente \u00fajb\u00f3l hozz\u00e1 kell adni???",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u8fd9\u662f\u60a8\u7b2c\u4e8c\u6b21\u5728\u7535\u8bdd\u4e2d\u88ab\u544a\u77e5\u6ca1\u6709\u8fde\u63a5\u5a74\u513f\u76d1\u89c6\u5668...\u60a8\u5fc5\u987b\u6bcf\u5468\u91cd\u65b0\u6dfb\u52a0\u4e00\u6b21\u5417\uff1f",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "hu",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id200582152"
+                    },
+                    "name": {
+                        "label": "Neoboost"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-02T19:41:25-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "12019533094"
+                },
+                "title": {
+                    "label": "What happened?"
+                },
+                "content": {
+                    "label": "The app worked perfectly for the first week. However, when I went into the app to check my baby\u2019s sleep history, everything was gone. It doesn\u2019t show any sleep sessions at all. Everything else on the app works fine. I am really disappointed as I looked forward to this feature. For the price of this camera, you would think that it would actually record the sleep sessions. I don\u2019t understand why this feature no longer works.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "us",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u7b2c\u4e00\u5468\u8fd0\u884c\u826f\u597d\u3002\u7136\u800c\uff0c\u5f53\u6211\u8fdb\u5165\u5e94\u7528\u7a0b\u5e8f\u67e5\u770b\u5b9d\u5b9d\u7684\u7761\u7720\u5386\u53f2\u65f6\uff0c\u4e00\u5207\u90fd\u6d88\u5931\u4e86\u3002\u5b83\u6839\u672c\u4e0d\u663e\u793a\u4efb\u4f55\u7761\u7720\u8fc7\u7a0b\u3002\u5e94\u7528\u7a0b\u5e8f\u4e0a\u7684\u5176\u4ed6\u4e00\u5207\u90fd\u8fd0\u884c\u826f\u597d\u3002\u6211\u771f\u7684\u5f88\u5931\u671b\uff0c\u56e0\u4e3a\u6211\u5f88\u671f\u5f85\u8fd9\u4e2a\u529f\u80fd\u3002\u5bf9\u4e8e\u8fd9\u6b3e\u76f8\u673a\u7684\u4ef7\u683c\uff0c\u60a8\u53ef\u80fd\u4f1a\u8ba4\u4e3a\u5b83\u5b9e\u9645\u4e0a\u53ef\u4ee5\u8bb0\u5f55\u7761\u7720\u8fc7\u7a0b\u3002\u6211\u4e0d\u660e\u767d\u4e3a\u4ec0\u4e48\u8fd9\u4e2a\u529f\u80fd\u4e0d\u518d\u8d77\u4f5c\u7528\u3002",
+                "title_translate": "\u53d1\u751f\u4e86\u4ec0\u4e48\uff1f"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id118689526"
+                    },
+                    "name": {
+                        "label": "MikeWithDJ"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-02T11:47:45-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "12018325963"
+                },
+                "title": {
+                    "label": "Image clear - not all features work"
+                },
+                "content": {
+                    "label": "The image is great quality and the camera does give real time alerts of breathing patterns which is nice. However, I am unable to get the dashboard which tracks sleeping patterns for the last 30 days to work. Searched the internet with no fix, so called Phillips customer service which was extremely frustrating and they solved nothing. App & monitor have potential but dosent full work.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "us",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u56fe\u50cf\u8d28\u91cf\u5f88\u597d\uff0c\u6444\u50cf\u5934\u786e\u5b9e\u53ef\u4ee5\u53d1\u51fa\u547c\u5438\u6a21\u5f0f\u7684\u5b9e\u65f6\u8b66\u62a5\uff0c\u8fd9\u5f88\u597d\u3002\u4f46\u662f\uff0c\u6211\u65e0\u6cd5\u8ba9\u8ddf\u8e2a\u8fc7\u53bb 30 \u5929\u7761\u7720\u6a21\u5f0f\u7684\u4eea\u8868\u677f\u6b63\u5e38\u5de5\u4f5c\u3002\u5728\u4e92\u8054\u7f51\u4e0a\u641c\u7d22\u6ca1\u6709\u4efb\u4f55\u89e3\u51b3\u529e\u6cd5\uff0c\u6240\u8c13\u7684\u98de\u5229\u6d66\u5ba2\u6237\u670d\u52a1\u975e\u5e38\u4ee4\u4eba\u6cae\u4e27\uff0c\u4ed6\u4eec\u6ca1\u6709\u89e3\u51b3\u4efb\u4f55\u95ee\u9898\u3002\u5e94\u7528\u7a0b\u5e8f\u548c\u76d1\u89c6\u5668\u6709\u6f5c\u529b\uff0c\u4f46\u8fd8\u6ca1\u6709\u5b8c\u5168\u53d1\u6325\u4f5c\u7528\u3002",
+                "title_translate": "\u56fe\u50cf\u6e05\u6670 - \u5e76\u975e\u6240\u6709\u529f\u80fd\u90fd\u6709\u6548"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Mr.X"
+                    },
+                    "label": "Mr.X"
+                },
+                "updated": {
+                    "label": "2024-12-02T06:46:53Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "3141e22b-3445-4b4f-b465-f71ef7c4aadf"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Alles sch\u00f6n aber noch sch\u00f6ner w\u00e4re es wenn die App Bild in Bild zulassen w\u00fcrde, dann k\u00f6nnte man auf dem Falt Handy oder Tablet die App parallel laufen lassen auf Split sceen oder wenn man beim schlie\u00dfen ein frei bewegliches Fenster h\u00e4tte w\u00e4re supi.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u4e00\u5207\u90fd\u5f88\u597d\uff0c\u4f46\u5982\u679c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5141\u8bb8\u753b\u4e2d\u753b\uff0c\u90a3\u5c31\u66f4\u597d\u4e86\uff0c\u90a3\u4e48\u60a8\u53ef\u4ee5\u5728\u5206\u5c4f\u7684\u6298\u53e0\u624b\u673a\u6216\u5e73\u677f\u7535\u8111\u4e0a\u5e76\u884c\u8fd0\u884c\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u6216\u8005\u5982\u679c\u60a8\u5728\u5173\u95ed\u65f6\u6709\u4e00\u4e2a\u53ef\u81ea\u7531\u79fb\u52a8\u7684\u7a97\u53e3\uff0c\u90a3\u5c31\u592a\u597d\u4e86\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/be/reviews/id416760138"
+                    },
+                    "name": {
+                        "label": "S_sposa"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-11-29T20:23:41-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "12007741924"
+                },
+                "title": {
+                    "label": "Slechte verbinding"
+                },
+                "content": {
+                    "label": "Sinds de laatste update hele slechte verbinding tussen iPhone/ iPad en babyfoons. Geeft continue offline aan terwijl het internet wel functioneert. Voorheen altijd goed gewerkt. Graag snel een nieuwe update want dit is al een paar keer gemeld. \nOok geeft die op iPad aan dat ik een oudere versie van de app moet downloaden terwijl er bij de details staat, iPad versie 11.0 of hoger en er versie 16 en nog wat op staat.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/be/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "be",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u81ea\u4e0a\u6b21\u66f4\u65b0\u4ee5\u6765\uff0ciPhone/iPad \u548c\u5a74\u513f\u76d1\u89c6\u5668\u4e4b\u95f4\u7684\u8fde\u63a5\u975e\u5e38\u5dee\u3002\u5f53\u4e92\u8054\u7f51\u8fd0\u884c\u65f6\u6301\u7eed\u6307\u793a\u79bb\u7ebf\u3002\u4ee5\u524d\u4e00\u76f4\u5de5\u4f5c\u5f97\u5f88\u597d\u3002\u8bf7\u5c3d\u5feb\u63d0\u4f9b\u65b0\u7684\u66f4\u65b0\uff0c\u56e0\u4e3a\u6b64\u95ee\u9898\u5df2\u88ab\u62a5\u544a\u8fc7\u51e0\u6b21\u3002\u5b83\u8fd8\u5728 iPad \u4e0a\u6307\u793a\u6211\u9700\u8981\u4e0b\u8f7d\u65e7\u7248\u672c\u7684\u5e94\u7528\u7a0b\u5e8f\uff0c\u800c\u8be6\u7ec6\u4fe1\u606f\u663e\u793a iPad \u7248\u672c 11.0 \u6216\u66f4\u9ad8\u7248\u672c\uff0c\u5e76\u663e\u793a\u7248\u672c 16 \u53ca\u66f4\u9ad8\u7248\u672c\u3002",
+                "title_translate": "\u8fde\u63a5\u4e0d\u826f"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Seb Cardo"
+                    },
+                    "label": "Seb Cardo"
+                },
+                "updated": {
+                    "label": "2024-11-27T04:56:12Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "71f3ad48-171a-4269-b5e0-90f8f8b8b34b"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "connection initiale chaotique. compte et cloud obligatoire. prestataire externe avec compte aussi pour l'analyse de pleurs finalement payante. tr\u00e8s d\u00e9\u00e7u",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6df7\u4e71\u7684\u521d\u59cb\u8fde\u63a5\u3002\u9700\u8981\u5e10\u6237\u548c\u4e91\u3002\u5916\u90e8\u670d\u52a1\u5546\u7684\u8d26\u53f7\u4e5f\u4e3a\u5206\u6790\u6cea\u6c34\u6700\u7ec8\u4ed8\u51fa\u4e86\u4ee3\u4ef7\u3002\u975e\u5e38\u5931\u671b",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
+                    },
+                    "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
+                },
+                "updated": {
+                    "label": "2024-11-26T23:30:40Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "ae03d099-68c0-4a0a-919e-af72a38e6a0d"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Good quality of video, that's all. Very often it shows that there is no connection to the camera, or there is no camera at all. This problem is only with the application.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u89c6\u9891\u8d28\u91cf\u597d\uff0c\u4ec5\u6b64\u800c\u5df2\u3002\u5f88\u591a\u65f6\u5019\u5b83\u8868\u660e\u6ca1\u6709\u8fde\u63a5\u5230\u76f8\u673a\uff0c\u6216\u8005\u6839\u672c\u6ca1\u6709\u76f8\u673a\u3002\u6b64\u95ee\u9898\u4ec5\u4e0e\u5e94\u7528\u7a0b\u5e8f\u6709\u5173\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "pl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Victor Mart\u00ednez"
+                    },
+                    "label": "Victor Mart\u00ednez"
+                },
+                "updated": {
+                    "label": "2024-11-26T10:31:26Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "bfbff334-8e41-4b78-bf4e-475e320b5ba9"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "muy conveniente para cuando debe dejar al beb\u00e9 por un momento y hay que estar al pendiente",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5f53\u60a8\u5fc5\u987b\u6682\u65f6\u79bb\u5f00\u5b9d\u5b9d\u5e76\u4e14\u5fc5\u987b\u7167\u770b\u5b83\u65f6\u975e\u5e38\u65b9\u4fbf",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "es",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/de/reviews/id174261477?l=en"
+                    },
+                    "name": {
+                        "label": "Ornt2024"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-11-25T06:12:29-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "11990399123"
+                },
+                "title": {
+                    "label": "Leider noch nicht voll ausgereift"
+                },
+                "content": {
+                    "label": "Grunds\u00e4tzlich ist es eine gute Babycam mit toller Bildqualit\u00e4t. Bei dem Gebrauch des \nPhilips Avent Connected Model SCD643/26 in Kombination mit dem iPhone, gibt es jedoch noch n\u00f6tige Updates einwandfreien Verwendung.\n\n1. Das Problem ist, dass die App rauscht sobald Bild und Ton an sind. Es sollte wie bei einer normalen Elternstation ger\u00e4uschlos sein, ausser nat\u00fcrlich es tut sich was im Zimmer. Zur Zeit muss man ein Dauerrauschen ertragen, wenn man sowohl Bild als auch Ton nutzen will oder man schaltet den Ton aus, kann dann aber sein Baby nicht mehr h\u00f6ren. Ein Signal oder Mitteilung k\u00f6nnte hier als zus\u00e4tzliches Feature Abhilfe schaffen. \n\n2. Gruns\u00e4tzlich k\u00f6nnten die Mitteilungen/Signale bei Bewegungserjkennung oder Ger\u00e4usch vielleicht noch etwas besser gestaltet werden. Wenn man nicht gerade auf das Handy schaut, kann mam da schon mal leicht was verpassen.\n\n2. Zudem w\u00e4re ein Timer im Bild toll, damit man weiss wie lange das Baby geschlafen hat.\n\nEin Update w\u00fcrde hier definitiv die Produkterfahrung verbessern.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u57fa\u672c\u4e0a\uff0c\u5b83\u662f\u4e00\u6b3e\u5177\u6709\u51fa\u8272\u56fe\u50cf\u8d28\u91cf\u7684\u4f18\u8d28\u5a74\u513f\u6444\u50cf\u673a\u3002\u7136\u800c\uff0c\u5f53\u5c06\u98de\u5229\u6d66\u65b0\u5b89\u6021\u4e92\u8054\u578b\u53f7 SCD643/26 \u4e0e iPhone \u7ed3\u5408\u4f7f\u7528\u65f6\uff0c\u4ecd\u9700\u8981\u8fdb\u884c\u66f4\u65b0\u624d\u80fd\u6b63\u786e\u4f7f\u7528\u3002 1\u3001\u95ee\u9898\u662f\uff0c\u4e00\u6253\u5f00\u56fe\u7247\u548c\u58f0\u97f3\uff0c\u5e94\u7528\u7a0b\u5e8f\u5c31\u4f1a\u53d1\u51fa\u566a\u97f3\u3002\u5c31\u50cf\u666e\u901a\u7684\u5bb6\u957f\u7ad9\u4e00\u6837\uff0c\u5b83\u5e94\u8be5\u662f\u65e0\u566a\u97f3\u7684\uff0c\u9664\u975e\u623f\u95f4\u91cc\u53d1\u751f\u4e86\u4ec0\u4e48\u4e8b\u3002\u73b0\u5728\u5982\u679c\u4f60\u60f3\u540c\u65f6\u4f7f\u7528\u56fe\u50cf\u548c\u58f0\u97f3\uff0c\u4f60\u5c31\u5fc5\u987b\u5fcd\u53d7\u6301\u7eed\u7684\u566a\u97f3\uff0c\u6216\u8005\u4f60\u5173\u6389\u58f0\u97f3\uff0c\u4f46\u4f60\u518d\u4e5f\u542c\u4e0d\u5230\u5b9d\u5b9d\u7684\u58f0\u97f3\u4e86\u3002\u4f5c\u4e3a\u9644\u52a0\u529f\u80fd\uff0c\u4fe1\u53f7\u6216\u6d88\u606f\u53ef\u80fd\u4f1a\u6709\u6240\u5e2e\u52a9\u3002 2. \u57fa\u672c\u4e0a\uff0c\u7528\u4e8e\u8fd0\u52a8\u68c0\u6d4b\u6216\u566a\u58f0\u7684\u6d88\u606f/\u4fe1\u53f7\u4e5f\u8bb8\u53ef\u4ee5\u8bbe\u8ba1\u5f97\u66f4\u597d\u4e00\u4e9b\u3002\u5982\u679c\u4f60\u4e0d\u770b\u624b\u673a\uff0c\u5f88\u5bb9\u6613\u9519\u8fc7\u4e00\u4e9b\u4e1c\u897f\u3002 2.\u56fe\u4e2d\u7684\u8ba1\u65f6\u5668\u4e5f\u5f88\u597d\uff0c\u8fd9\u6837\u4f60\u5c31\u53ef\u4ee5\u77e5\u9053\u5b9d\u5b9d\u7761\u4e86\u591a\u957f\u65f6\u95f4\u3002\u66f4\u65b0\u80af\u5b9a\u4f1a\u6539\u5584\u8fd9\u91cc\u7684\u4ea7\u54c1\u4f53\u9a8c\u3002",
+                "title_translate": "\u53ef\u60dc\u8fd8\u6ca1\u6709\u5b8c\u5168\u5f00\u53d1\u51fa\u6765"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/de/reviews/id101944747?l=en"
+                    },
+                    "name": {
+                        "label": "nebsjue"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-11-24T23:58:44-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "11989438088"
+                },
+                "title": {
+                    "label": "Leider deutliche Schw\u00e4chen"
+                },
+                "content": {
+                    "label": "Leider zeigt die App deutlich Schw\u00e4chen! \nZun\u00e4chst zum positiven: die Video\u00fcbertragung lief bei mir sowohl \u00fcber WLAN als auch 5G stabil, die Bildqualit\u00e4t ist v\u00f6llig in Ordnung. \nLeider ist die App aufgrund einiger wichter fehlender Funktionen trotzdem recht nutzlos.\n1.) Leider kann man die Audio\u00fcbertragung in der App entweder an oder aus schalten.  Wenn das Audio angeschaltet ist h\u00f6rt man durchgehend ein unangenehmes Grundrauschen. Ich kann nicht nachvollziehen, warum sich das Audio nicht nur bei erkannten Schreien vom Baby automatisch anschaltet, wie dies auch bei der Elternstation der Fall ist. \n2.) Leider fehlt eine visuelle Benachrichtigung in der App wenn das Baby schreit. Auch hier ist es bei der Elternstation wieder besser gel\u00f6st: dort blinken 3 LEDs bei erkannten Ger\u00e4uschen. Wichtig ist diese Funktion wenn man z.b. im Hotel beim Essen sitzt und dort die Ger\u00e4uschkulisse etwas h\u00f6her ist. \n3.) Der Hintergrundmodus funktioniert leider absolut sporadisch und das ist wirklich ein no go! Ich will mich nat\u00fcrlich darauf verlassen k\u00f6nnen, dass mein Babyphone mich wart wenn das Kind schreit! \n\nAlles in allem ist die App wirklich sehr st\u00fcmperhaft umgesetzt. Schade ist, dass alle bem\u00e4ngelten Punkte bei der Elternstation einwandfrei umgesetzt sind, grunds\u00e4tzlich wei\u00df Philips also worauf es bei einem guten Babyphone ankommt. In Anbetracht des Preises finde ich es nicht nachvollziehbar, dass nicht mehr in die Entwicklung einer vern\u00fcnftigen App investiert wird.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4e0d\u5e78\u7684\u662f\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u660e\u663e\u663e\u793a\u51fa\u5f31\u70b9\uff01\u9996\u5148\uff0c\u79ef\u6781\u7684\u4e00\u9762\u662f\uff1a\u65e0\u8bba\u662f\u901a\u8fc7 WLAN \u8fd8\u662f 5G\uff0c\u89c6\u9891\u4f20\u8f93\u5bf9\u6211\u6765\u8bf4\u90fd\u5f88\u7a33\u5b9a\uff0c\u56fe\u50cf\u8d28\u91cf\u4e5f\u5f88\u597d\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u7531\u4e8e\u7f3a\u5c11\u4e00\u4e9b\u91cd\u8981\u7684\u529f\u80fd\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u4ecd\u7136\u6beb\u65e0\u7528\u5904\u3002 1.) \u4e0d\u5e78\u7684\u662f\uff0c\u60a8\u53ef\u4ee5\u5728\u5e94\u7528\u7a0b\u5e8f\u4e2d\u6253\u5f00\u6216\u5173\u95ed\u97f3\u9891\u4f20\u8f93\u3002\u5f53\u97f3\u9891\u6253\u5f00\u65f6\uff0c\u60a8\u4f1a\u542c\u5230\u4ee4\u4eba\u4e0d\u5feb\u7684\u80cc\u666f\u566a\u97f3\u3002\u6211\u4e0d\u660e\u767d\u4e3a\u4ec0\u4e48\u5f53\u68c0\u6d4b\u5230\u5a74\u513f\u54ed\u58f0\u65f6\u97f3\u9891\u4e0d\u4f1a\u81ea\u52a8\u6253\u5f00\uff0c\u5c31\u50cf\u5bb6\u957f\u7ad9\u7684\u60c5\u51b5\u4e00\u6837\u3002 2.) \u4e0d\u5e78\u7684\u662f\uff0c\u5f53\u5a74\u513f\u54ed\u6ce3\u65f6\uff0c\u5e94\u7528\u7a0b\u5e8f\u4e2d\u6ca1\u6709\u89c6\u89c9\u901a\u77e5\u3002\u5728\u8fd9\u91cc\uff0c\u7236\u7ad9\u7684\u89e3\u51b3\u65b9\u6848\u4e5f\u66f4\u597d\uff1a\u5f53\u68c0\u6d4b\u5230\u566a\u97f3\u65f6\uff0c3 \u4e2a LED \u4f1a\u95ea\u70c1\u3002\u4f8b\u5982\uff0c\u5982\u679c\u60a8\u5728\u9152\u5e97\u7528\u9910\u4e14\u80cc\u666f\u566a\u97f3\u8f83\u5927\uff0c\u5219\u6b64\u529f\u80fd\u975e\u5e38\u91cd\u8981\u3002 3.) \u4e0d\u5e78\u7684\u662f\uff0c\u540e\u53f0\u6a21\u5f0f\u7edd\u5bf9\u5076\u5c14\u4f1a\u5de5\u4f5c\uff0c\u8fd9\u771f\u7684\u662f\u4e0d\u884c\u7684\uff01\u5f53\u7136\uff0c\u6211\u5e0c\u671b\u80fd\u591f\u5728\u5b69\u5b50\u54ed\u6ce3\u65f6\u4f9d\u9760\u6211\u7684\u5a74\u513f\u76d1\u89c6\u5668\u6765\u966a\u4f34\uff01\u603b\u800c\u8a00\u4e4b\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u7684\u5b9e\u65bd\u786e\u5b9e\u975e\u5e38\u7cdf\u7cd5\u3002\u53ef\u60dc\u7684\u662f\u6bcd\u7ad9\u91cc\u6240\u6709\u88ab\u8bdf\u75c5\u7684\u70b9\u90fd\u88ab\u5b8c\u7f8e\u6267\u884c\u4e86\uff0c\u6240\u4ee5\u98de\u5229\u6d66\u57fa\u672c\u4e0a\u77e5\u9053\u4e00\u6b3e\u597d\u7684\u5a74\u513f\u76d1\u62a4\u4eea\u91cd\u8981\u7684\u662f\u4ec0\u4e48\u3002\u8003\u8651\u5230\u4ef7\u683c\uff0c\u6211\u89c9\u5f97\u65e0\u6cd5\u7406\u89e3\u4e3a\u4ec0\u4e48\u4e0d\u6295\u5165\u66f4\u591a\u8d44\u91d1\u6765\u5f00\u53d1\u4e00\u4e2a\u5408\u7406\u7684\u5e94\u7528\u7a0b\u5e8f\u3002",
+                "title_translate": "\u4e0d\u5e78\u7684\u662f\uff0c\u5b58\u5728\u660e\u663e\u7684\u5f31\u70b9"
             },
             {
                 "author": {
@@ -114,44 +737,42 @@
             {
                 "author": {
                     "uri": {
-                        "label": ""
+                        "label": "https://itunes.apple.com/nl/reviews/id184865617?l=en"
                     },
                     "name": {
-                        "label": "Elora -"
+                        "label": "Glowgetter91"
                     },
-                    "label": "Elora -"
+                    "label": ""
                 },
                 "updated": {
-                    "label": "2024-12-04T04:22:01Z"
+                    "label": "2024-11-22T14:42:14-07:00"
                 },
                 "im:rating": {
-                    "label": 1
+                    "label": "2"
                 },
                 "im:version": {
                     "label": "1.2.4"
                 },
                 "id": {
-                    "label": "18ff5c92-1f21-4ef9-82f2-fb93ce2e938d"
+                    "label": "11980279455"
                 },
                 "title": {
-                    "label": ""
+                    "label": "Mooi apparaat maar verbinding verbreekt steeds"
                 },
                 "content": {
-                    "label": "L'application est tr\u00e8s bien mais j'ai un bug sur mon Google pixel, la rotation du t\u00e9l\u00e9phone pour mettre l'image en plein \u00e9cran bug. L'image ne fait que se tourner en mode portrait puis paysage sans jamais s'arr\u00eater.",
+                    "label": "Na veel zoeken en twijfelen de baby monitor gekocht. Erg mooi apparaat met veel mooie opties zoals muziekjes afspelen en inzoomen, temperatuur meldingen voor als het te koud of te warm wordt in de kamer.\n\nHelaas verbreekt de verbinding wel erg vaak en heb je tijdelijk even geen zicht op je baby. Binnen een half uur gebeurt dit minimaal 5x via de app maar ook soms via de ouder monitor. Verder is het jammer dat de camera bij de baby niet draadloos is. Ik had dit al gelezen bij recensies van anderen dat dit vaak gebeurd maar nu dus ook bij ons. Ik ben benieuwd of dit opgelost wordt met nieuwe updates etc.",
                     "attributes": {
                         "type": "text"
                     }
                 },
-                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u975e\u5e38\u597d\uff0c\u4f46\u6211\u7684 Google Pixel \u4e0a\u6709\u4e00\u4e2a\u9519\u8bef\uff0c\u65cb\u8f6c\u624b\u673a\u5c06\u56fe\u50cf\u5168\u5c4f\u663e\u793a\u9519\u8bef\u3002\u56fe\u50cf\u4f1a\u4e0d\u505c\u5730\u65cb\u8f6c\u4e3a\u7eb5\u5411\uff0c\u7136\u540e\u6a2a\u5411\u3002",
-                "title_translate": "",
                 "link": {
                     "attributes": {
                         "rel": "related",
-                        "href": ""
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
                     }
                 },
                 "im:voteSum": {
-                    "label": 0
+                    "label": "0"
                 },
                 "im:contentType": {
                     "attributes": {
@@ -160,70 +781,13 @@
                     }
                 },
                 "im:voteCount": {
-                    "label": 0
+                    "label": "0"
                 },
-                "os": {
-                    "label": "android"
-                },
+                "cc": "nl",
                 "ty_review_type": "0",
-                "ty_question_type": "0"
-            },
-            {
-                "author": {
-                    "uri": {
-                        "label": ""
-                    },
-                    "name": {
-                        "label": "Seb Cardo"
-                    },
-                    "label": "Seb Cardo"
-                },
-                "updated": {
-                    "label": "2024-11-27T04:56:12Z"
-                },
-                "im:rating": {
-                    "label": 1
-                },
-                "im:version": {
-                    "label": "1.2.4"
-                },
-                "id": {
-                    "label": "71f3ad48-171a-4269-b5e0-90f8f8b8b34b"
-                },
-                "title": {
-                    "label": ""
-                },
-                "content": {
-                    "label": "connection initiale chaotique. compte et cloud obligatoire. prestataire externe avec compte aussi pour l'analyse de pleurs finalement payante. tr\u00e8s d\u00e9\u00e7u",
-                    "attributes": {
-                        "type": "text"
-                    }
-                },
-                "content_translate": "\u6df7\u4e71\u7684\u521d\u59cb\u8fde\u63a5\u3002\u9700\u8981\u5e10\u6237\u548c\u4e91\u3002\u5916\u90e8\u670d\u52a1\u5546\u7684\u8d26\u53f7\u4e5f\u4e3a\u5206\u6790\u6cea\u6c34\u6700\u7ec8\u4ed8\u51fa\u4e86\u4ee3\u4ef7\u3002\u975e\u5e38\u5931\u671b",
-                "title_translate": "",
-                "link": {
-                    "attributes": {
-                        "rel": "related",
-                        "href": ""
-                    }
-                },
-                "im:voteSum": {
-                    "label": 0
-                },
-                "im:contentType": {
-                    "attributes": {
-                        "term": "Application",
-                        "label": "Application"
-                    }
-                },
-                "im:voteCount": {
-                    "label": 0
-                },
-                "os": {
-                    "label": "android"
-                },
-                "ty_review_type": "0",
-                "ty_question_type": "0"
+                "ty_question_type": "0",
+                "content_translate": "\u7ecf\u8fc7\u4e00\u756a\u5bfb\u627e\u548c\u72b9\u8c6b\uff0c\u6211\u4e70\u4e86\u5a74\u513f\u76d1\u89c6\u5668\u3002\u975e\u5e38\u597d\u7684\u8bbe\u5907\uff0c\u6709\u5f88\u591a\u4e0d\u9519\u7684\u9009\u9879\uff0c\u4f8b\u5982\u64ad\u653e\u97f3\u4e50\u548c\u653e\u5927\uff0c\u5f53\u623f\u95f4\u91cc\u592a\u51b7\u6216\u592a\u70ed\u65f6\u53d1\u51fa\u6e29\u5ea6\u901a\u77e5\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u8fde\u63a5\u7ecf\u5e38\u4e2d\u65ad\uff0c\u60a8\u6682\u65f6\u770b\u4e0d\u5230\u60a8\u7684\u5b9d\u5b9d\u3002\u8fd9\u79cd\u60c5\u51b5\u5728\u534a\u5c0f\u65f6\u5185\u901a\u8fc7\u5e94\u7528\u7a0b\u5e8f\u81f3\u5c11\u53d1\u751f 5 \u6b21\uff0c\u4f46\u6709\u65f6\u4e5f\u901a\u8fc7\u5bb6\u957f\u663e\u793a\u5668\u53d1\u751f\u3002\u8fd8\u6709\u4e00\u70b9\u53ef\u60dc\u7684\u662f\u5b9d\u5b9d\u7684\u6444\u50cf\u5934\u4e0d\u662f\u65e0\u7ebf\u7684\u3002\u6211\u5df2\u7ecf\u5728\u5176\u4ed6\u4eba\u7684\u8bc4\u8bba\u4e2d\u8bfb\u5230\u8fd9\u79cd\u60c5\u51b5\u7ecf\u5e38\u53d1\u751f\uff0c\u4f46\u73b0\u5728\u5b83\u4e5f\u53d1\u751f\u5728\u6211\u4eec\u8eab\u4e0a\u3002\u6211\u5f88\u597d\u5947\u8fd9\u4e2a\u95ee\u9898\u662f\u5426\u4f1a\u901a\u8fc7\u65b0\u7684\u66f4\u65b0\u7b49\u5f97\u5230\u89e3\u51b3\u3002",
+                "title_translate": "\u8bbe\u5907\u4e0d\u9519\uff0c\u4f46\u8fde\u63a5\u603b\u662f\u6389\u7ebf"
             },
             {
                 "author": {
@@ -279,50 +843,49 @@
                 "os": {
                     "label": "android"
                 },
+                "cc": "nl",
                 "ty_review_type": "0",
                 "ty_question_type": "0"
             },
             {
                 "author": {
                     "uri": {
-                        "label": ""
+                        "label": "https://itunes.apple.com/us/reviews/id302107087"
                     },
                     "name": {
-                        "label": "Csaba Cs\u00e1sz\u00e1r"
+                        "label": "jjcjjjjj"
                     },
-                    "label": "Csaba Cs\u00e1sz\u00e1r"
+                    "label": ""
                 },
                 "updated": {
-                    "label": "2024-12-03T14:07:14Z"
+                    "label": "2024-11-16T14:51:30-07:00"
                 },
                 "im:rating": {
-                    "label": 1
+                    "label": "1"
                 },
                 "im:version": {
                     "label": "1.2.4"
                 },
                 "id": {
-                    "label": "7edc5051-76d2-427f-8191-2558fd5bd00d"
+                    "label": "11958179380"
                 },
                 "title": {
-                    "label": ""
+                    "label": "Can only connect to 1 iPhone"
                 },
                 "content": {
-                    "label": "M\u00e1r a 2. alkalom, hogy telefonon az fogad, hogy nincs csatlakoztatott baba\u0151rz\u0151... Hetente \u00fajb\u00f3l hozz\u00e1 kell adni???",
+                    "label": "I\u2019m extremely disappointed with this baby monitor app. After I connected my wife\u2019s phone to the app, I tried to connect it to my phone as well. However, this caused my wife\u2019s app and the monitor to disconnect automatically, requiring us to re-add the monitor. Does this mean only one iPhone can use the app and monitor at a time?",
                     "attributes": {
                         "type": "text"
                     }
                 },
-                "content_translate": "\u8fd9\u662f\u60a8\u7b2c\u4e8c\u6b21\u5728\u7535\u8bdd\u4e2d\u88ab\u544a\u77e5\u6ca1\u6709\u8fde\u63a5\u5a74\u513f\u76d1\u89c6\u5668...\u60a8\u5fc5\u987b\u6bcf\u5468\u91cd\u65b0\u6dfb\u52a0\u4e00\u6b21\u5417\uff1f",
-                "title_translate": "",
                 "link": {
                     "attributes": {
                         "rel": "related",
-                        "href": ""
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
                     }
                 },
                 "im:voteSum": {
-                    "label": 0
+                    "label": "0"
                 },
                 "im:contentType": {
                     "attributes": {
@@ -331,184 +894,13 @@
                     }
                 },
                 "im:voteCount": {
-                    "label": 0
+                    "label": "0"
                 },
-                "os": {
-                    "label": "android"
-                },
+                "cc": "us",
                 "ty_review_type": "0",
-                "ty_question_type": "0"
-            },
-            {
-                "author": {
-                    "uri": {
-                        "label": ""
-                    },
-                    "name": {
-                        "label": "Victor Mart\u00ednez"
-                    },
-                    "label": "Victor Mart\u00ednez"
-                },
-                "updated": {
-                    "label": "2024-11-26T10:31:26Z"
-                },
-                "im:rating": {
-                    "label": 5
-                },
-                "im:version": {
-                    "label": "1.2.4"
-                },
-                "id": {
-                    "label": "bfbff334-8e41-4b78-bf4e-475e320b5ba9"
-                },
-                "title": {
-                    "label": ""
-                },
-                "content": {
-                    "label": "muy conveniente para cuando debe dejar al beb\u00e9 por un momento y hay que estar al pendiente",
-                    "attributes": {
-                        "type": "text"
-                    }
-                },
-                "content_translate": "\u5f53\u60a8\u5fc5\u987b\u6682\u65f6\u79bb\u5f00\u5b9d\u5b9d\u5e76\u4e14\u5fc5\u987b\u7167\u770b\u5b83\u65f6\u975e\u5e38\u65b9\u4fbf",
-                "title_translate": "",
-                "link": {
-                    "attributes": {
-                        "rel": "related",
-                        "href": ""
-                    }
-                },
-                "im:voteSum": {
-                    "label": 0
-                },
-                "im:contentType": {
-                    "attributes": {
-                        "term": "Application",
-                        "label": "Application"
-                    }
-                },
-                "im:voteCount": {
-                    "label": 0
-                },
-                "os": {
-                    "label": "android"
-                },
-                "ty_review_type": "0",
-                "ty_question_type": "0"
-            },
-            {
-                "author": {
-                    "uri": {
-                        "label": ""
-                    },
-                    "name": {
-                        "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
-                    },
-                    "label": "\u042e\u043b\u0438\u044f \u042e\u043b\u0438\u044f"
-                },
-                "updated": {
-                    "label": "2024-11-26T23:30:40Z"
-                },
-                "im:rating": {
-                    "label": 3
-                },
-                "im:version": {
-                    "label": "1.2.4"
-                },
-                "id": {
-                    "label": "ae03d099-68c0-4a0a-919e-af72a38e6a0d"
-                },
-                "title": {
-                    "label": ""
-                },
-                "content": {
-                    "label": "Good quality of video, that's all. Very often it shows that there is no connection to the camera, or there is no camera at all. This problem is only with the application.",
-                    "attributes": {
-                        "type": "text"
-                    }
-                },
-                "content_translate": "\u89c6\u9891\u8d28\u91cf\u597d\uff0c\u4ec5\u6b64\u800c\u5df2\u3002\u5f88\u591a\u65f6\u5019\u5b83\u8868\u660e\u6ca1\u6709\u8fde\u63a5\u5230\u76f8\u673a\uff0c\u6216\u8005\u6839\u672c\u6ca1\u6709\u76f8\u673a\u3002\u6b64\u95ee\u9898\u4ec5\u4e0e\u5e94\u7528\u7a0b\u5e8f\u6709\u5173\u3002",
-                "title_translate": "",
-                "link": {
-                    "attributes": {
-                        "rel": "related",
-                        "href": ""
-                    }
-                },
-                "im:voteSum": {
-                    "label": 0
-                },
-                "im:contentType": {
-                    "attributes": {
-                        "term": "Application",
-                        "label": "Application"
-                    }
-                },
-                "im:voteCount": {
-                    "label": 0
-                },
-                "os": {
-                    "label": "android"
-                },
-                "ty_review_type": "0",
-                "ty_question_type": "0"
-            },
-            {
-                "author": {
-                    "uri": {
-                        "label": ""
-                    },
-                    "name": {
-                        "label": "Mr.X"
-                    },
-                    "label": "Mr.X"
-                },
-                "updated": {
-                    "label": "2024-12-02T06:46:53Z"
-                },
-                "im:rating": {
-                    "label": 4
-                },
-                "im:version": {
-                    "label": "1.2.4"
-                },
-                "id": {
-                    "label": "3141e22b-3445-4b4f-b465-f71ef7c4aadf"
-                },
-                "title": {
-                    "label": ""
-                },
-                "content": {
-                    "label": "Alles sch\u00f6n aber noch sch\u00f6ner w\u00e4re es wenn die App Bild in Bild zulassen w\u00fcrde, dann k\u00f6nnte man auf dem Falt Handy oder Tablet die App parallel laufen lassen auf Split sceen oder wenn man beim schlie\u00dfen ein frei bewegliches Fenster h\u00e4tte w\u00e4re supi.",
-                    "attributes": {
-                        "type": "text"
-                    }
-                },
-                "content_translate": "\u4e00\u5207\u90fd\u5f88\u597d\uff0c\u4f46\u5982\u679c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5141\u8bb8\u753b\u4e2d\u753b\uff0c\u90a3\u5c31\u66f4\u597d\u4e86\uff0c\u90a3\u4e48\u60a8\u53ef\u4ee5\u5728\u5206\u5c4f\u7684\u6298\u53e0\u624b\u673a\u6216\u5e73\u677f\u7535\u8111\u4e0a\u5e76\u884c\u8fd0\u884c\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u6216\u8005\u5982\u679c\u60a8\u5728\u5173\u95ed\u65f6\u6709\u4e00\u4e2a\u53ef\u81ea\u7531\u79fb\u52a8\u7684\u7a97\u53e3\uff0c\u90a3\u5c31\u592a\u597d\u4e86\u3002",
-                "title_translate": "",
-                "link": {
-                    "attributes": {
-                        "rel": "related",
-                        "href": ""
-                    }
-                },
-                "im:voteSum": {
-                    "label": 0
-                },
-                "im:contentType": {
-                    "attributes": {
-                        "term": "Application",
-                        "label": "Application"
-                    }
-                },
-                "im:voteCount": {
-                    "label": 0
-                },
-                "os": {
-                    "label": "android"
-                },
-                "ty_review_type": "0",
-                "ty_question_type": "0"
+                "ty_question_type": "0",
+                "content_translate": "\u6211\u5bf9\u8fd9\u4e2a\u5a74\u513f\u76d1\u89c6\u5668\u5e94\u7528\u7a0b\u5e8f\u975e\u5e38\u5931\u671b\u3002\u5728\u6211\u5c06\u59bb\u5b50\u7684\u624b\u673a\u8fde\u63a5\u5230\u8be5\u5e94\u7528\u7a0b\u5e8f\u540e\uff0c\u6211\u4e5f\u5c1d\u8bd5\u5c06\u5176\u8fde\u63a5\u5230\u6211\u7684\u624b\u673a\u3002\u7136\u800c\uff0c\u8fd9\u5bfc\u81f4\u6211\u59bb\u5b50\u7684\u5e94\u7528\u7a0b\u5e8f\u548c\u663e\u793a\u5668\u81ea\u52a8\u65ad\u5f00\u8fde\u63a5\uff0c\u9700\u8981\u6211\u4eec\u91cd\u65b0\u6dfb\u52a0\u663e\u793a\u5668\u3002\u8fd9\u662f\u5426\u610f\u5473\u7740\u4e00\u6b21\u53ea\u6709\u4e00\u90e8 iPhone \u53ef\u4ee5\u4f7f\u7528\u8be5\u5e94\u7528\u7a0b\u5e8f\u548c\u663e\u793a\u5668\uff1f",
+                "title_translate": "\u53ea\u80fd\u8fde\u63a5 1 \u90e8 iPhone"
             },
             {
                 "author": {
@@ -564,8 +956,64 @@
                 "os": {
                     "label": "android"
                 },
+                "cc": "hr",
                 "ty_review_type": "0",
                 "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id108963409?l=en"
+                    },
+                    "name": {
+                        "label": "FailHaze"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-11-14T18:01:41-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.2.4"
+                },
+                "id": {
+                    "label": "11950979733"
+                },
+                "title": {
+                    "label": "Nieuwe update vol met bugs"
+                },
+                "content": {
+                    "label": "De update zit weer eens vol met bugs.\n\nAanklikken van een babyfoon werkt meestal niet. Bij de spraakfunctie krijg je regelmatig \u201cnetwerk is bezet\u201d te zien.\n\nTesten jullie \u00fcberhaupt wel?",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u8fd9\u6b21\u66f4\u65b0\u518d\u6b21\u5145\u6ee1\u4e86\u9519\u8bef\u3002\u5355\u51fb\u5a74\u513f\u76d1\u89c6\u5668\u901a\u5e38\u4e0d\u8d77\u4f5c\u7528\u3002\u4f7f\u7528\u8bed\u97f3\u529f\u80fd\u65f6\uff0c\u60a8\u7ecf\u5e38\u4f1a\u770b\u5230\u201c\u7f51\u7edc\u6b63\u5fd9\u201d\u3002\u4f60\u6709\u6d4b\u8bd5\u5417\uff1f",
+                "title_translate": "\u65b0\u66f4\u65b0\u5145\u6ee1\u9519\u8bef"
             }
         ]
     }
