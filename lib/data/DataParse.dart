@@ -7,6 +7,7 @@ import '../bean/EvaluteBean.dart';
 import 'ListSingleton.dart';
 
 List<String> assetVersions = [
+  'assets/comment/v1.3.0_comment.json',
   'assets/comment/v1.2.4_comment.json',
   'assets/comment/v1.2.3_comment.json',
   'assets/comment/v1.1.1_comment.json',

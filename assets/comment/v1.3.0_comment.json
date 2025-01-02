@@ -1,0 +1,1808 @@
+{
+    "feed": {
+        "entry": [
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "pieter vanhove"
+                    },
+                    "label": "pieter vanhove"
+                },
+                "updated": {
+                    "label": "2025-01-01T03:54:26Z"
+                },
+                "im:rating": {
+                    "label": 3
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "908c3cce-5cb2-43b4-bac6-9c54b8d86824"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Missing dark mode. It's a terrible pain to open this up in the middle of the night and have a light-grey screen flash in your eyes.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u7f3a\u5c11\u6df1\u8272\u6a21\u5f0f\u3002\u5728\u534a\u591c\u6253\u5f00\u5b83\u5e76\u770b\u5230\u6d45\u7070\u8272\u7684\u5c4f\u5e55\u5728\u4f60\u7684\u773c\u775b\u4e2d\u95ea\u70c1\u662f\u4e00\u79cd\u53ef\u6015\u7684\u75db\u82e6\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "sg",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Damir Filipovic"
+                    },
+                    "label": "Damir Filipovic"
+                },
+                "updated": {
+                    "label": "2025-01-01T02:40:23Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "39789d57-0c5d-4923-89f4-9dcd69c3a4c7"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Cimpletely useless. MFA can't be disabled anymore. And the verification codes never worked. So the device itself will effectively become ewaste when the last logged in device is signed out. Criminal behavior.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5b8c\u5168\u6ca1\u7528\u3002 MFA \u65e0\u6cd5\u518d\u7981\u7528\u3002\u800c\u4e14\u9a8c\u8bc1\u7801\u4ece\u6765\u6ca1\u6709\u7528\u8fc7\u3002\u56e0\u6b64\uff0c\u5f53\u6700\u540e\u767b\u5f55\u7684\u8bbe\u5907\u6ce8\u9500\u65f6\uff0c\u8bbe\u5907\u672c\u8eab\u5b9e\u9645\u4e0a\u5c06\u6210\u4e3a\u5e9f\u7269\u3002\u72af\u7f6a\u884c\u4e3a\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "sg",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/ch/reviews/id364713388?l=en"
+                    },
+                    "name": {
+                        "label": "GenervterVater"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-28T04:45:16-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12115545961"
+                },
+                "title": {
+                    "label": "Lief gut, seit Update nicht mehr"
+                },
+                "content": {
+                    "label": "Seit dem Update der App l\u00e4sst sich das SCD923 nicht mehr mit einem neuen Wlan verbinden. Die Kamera verbindet sich zwar mit dem Wlan und wird dort als Ger\u00e4t angezeigt, aber die App erkennt die Kamera nicht!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/ch/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "ch",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u81ea\u4ece\u66f4\u65b0\u5e94\u7528\u7a0b\u5e8f\u540e\uff0cSCD923 \u65e0\u6cd5\u518d\u8fde\u63a5\u5230\u65b0\u7684 WiFi\u3002\u76f8\u673a\u8fde\u63a5\u5230 WiFi \u5e76\u663e\u793a\u4e3a\u8bbe\u5907\uff0c\u4f46\u5e94\u7528\u7a0b\u5e8f\u65e0\u6cd5\u8bc6\u522b\u76f8\u673a\uff01",
+                "title_translate": "\u5f88\u597d\u7528\uff0c\u66f4\u65b0\u540e\u5c31\u4e0d\u884c\u4e86"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id258382024?l=en"
+                    },
+                    "name": {
+                        "label": "Carlo Jessurun"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-27T20:33:25-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12114342757"
+                },
+                "title": {
+                    "label": "Loading state consistently incorrect"
+                },
+                "content": {
+                    "label": "Ever since the \u2018big\u2019 update. When opening the app and switching WiFi, the app claims to have no connection. When I remove this notification by clicking on the cross, it simply regains connectivity while nothing changed. I\u2019m still on the same network. Goes for both WiFi and mobile connections.\n\nThe app is amazing, but this error state doesn\u2019t make sense it should just do multiple retries before showing this state.\n\nWill rate 5 stars if ever fixed!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u81ea\u4ece\u201c\u5927\u201d\u66f4\u65b0\u4ee5\u6765\u3002\u6253\u5f00\u5e94\u7528\u7a0b\u5e8f\u5e76\u5207\u6362WiFi\u65f6\uff0c\u5e94\u7528\u7a0b\u5e8f\u58f0\u79f0\u6ca1\u6709\u8fde\u63a5\u3002\u5f53\u6211\u901a\u8fc7\u5355\u51fb\u5341\u5b57\u5220\u9664\u6b64\u901a\u77e5\u65f6\uff0c\u5b83\u53ea\u662f\u91cd\u65b0\u83b7\u5f97\u8fde\u63a5\uff0c\u800c\u6ca1\u6709\u4efb\u4f55\u53d8\u5316\u3002\u6211\u4ecd\u7136\u5728\u540c\u4e00\u4e2a\u7f51\u7edc\u4e0a\u3002\u9002\u7528\u4e8e WiFi \u548c\u79fb\u52a8\u8fde\u63a5\u3002\u8be5\u5e94\u7528\u7a0b\u5e8f\u5f88\u68d2\uff0c\u4f46\u8fd9\u79cd\u9519\u8bef\u72b6\u6001\u6ca1\u6709\u610f\u4e49\uff0c\u5b83\u5e94\u8be5\u5728\u663e\u793a\u6b64\u72b6\u6001\u4e4b\u524d\u8fdb\u884c\u591a\u6b21\u91cd\u8bd5\u3002\u5982\u679c\u4fee\u590d\u7684\u8bdd\u5c06\u8bc4\u4ef7 5 \u9897\u661f\uff01",
+                "title_translate": "\u52a0\u8f7d\u72b6\u6001\u59cb\u7ec8\u4e0d\u6b63\u786e"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Han Waijerink"
+                    },
+                    "label": "Han Waijerink"
+                },
+                "updated": {
+                    "label": "2024-12-27T21:46:49Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "d697a712-76c8-4e4c-add5-af167ae2a152"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "werkt mooi!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6548\u679c\u5f88\u597d\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/de/reviews/id907667778?l=en"
+                    },
+                    "name": {
+                        "label": "\u2026elhy"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-26T09:17:59-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12108427648"
+                },
+                "title": {
+                    "label": "App funktioniert nicht mehr"
+                },
+                "content": {
+                    "label": "Leider funktioniert die App seit einem Jahr leider nicht mehr. Wir haben das Babyphone zum Reisen geholt. Leider ist das Phone nun ziemlich nutzlos f\u00fcr uns geworden. W\u00fcrden keinen Kauf empfehlen",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4e0d\u5e78\u7684\u662f\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5df2\u7ecf\u4e00\u5e74\u6ca1\u6709\u8fd0\u884c\u4e86\u3002\u6211\u4eec\u4e70\u4e86\u65c5\u884c\u7528\u7684\u5a74\u513f\u76d1\u89c6\u5668\u3002\u4e0d\u5e78\u7684\u662f\uff0c\u7535\u8bdd\u73b0\u5728\u5bf9\u6211\u4eec\u6765\u8bf4\u5df2\u7ecf\u53d8\u5f97\u6beb\u65e0\u7528\u5904\u3002\u4e0d\u5efa\u8bae\u8d2d\u4e70",
+                "title_translate": "\u5e94\u7528\u7a0b\u5e8f\u4e0d\u518d\u5de5\u4f5c"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id37966605"
+                    },
+                    "name": {
+                        "label": "Maria28294"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-26T03:04:46-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12107225311"
+                },
+                "title": {
+                    "label": "Great Monitor, Issue with Sense IQ"
+                },
+                "content": {
+                    "label": "Having tried many, many baby monitors, I think this one is far and away the best. The picture is clear, the data collection is helpful, the eco mode works perfectly, and we love that it has both a video unit and a phone app. However, there is an issue with the app that makes Sense IQ confusing. When you go to look at the data for an ongoing sleep session, it shows fake data for 1-2 minutes, until the real data loads. You can tell because the \u201cin bed\u201d time will be accurate, but the \u201cduration\u201d time won\u2019t make any sense. Then, after 1-2 minutes, the real data will populate. It\u2019s very confusing and took me a while to figure out what\u2019s going on. It would be better if it simply said \u201cloading\u201d instead of showing fake data (or if it simply loaded more quickly).",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "us",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u5728\u5c1d\u8bd5\u4e86\u5f88\u591a\u5f88\u591a\u5a74\u513f\u76d1\u89c6\u5668\u540e\uff0c\u6211\u8ba4\u4e3a\u8fd9\u6b3e\u65e0\u7591\u662f\u6700\u597d\u7684\u3002\u56fe\u7247\u6e05\u6670\uff0c\u6570\u636e\u6536\u96c6\u5f88\u6709\u5e2e\u52a9\uff0c\u751f\u6001\u6a21\u5f0f\u8fd0\u884c\u5b8c\u7f8e\uff0c\u6211\u4eec\u559c\u6b22\u5b83\u540c\u65f6\u5177\u6709\u89c6\u9891\u5355\u5143\u548c\u624b\u673a\u5e94\u7528\u7a0b\u5e8f\u3002\u7136\u800c\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u5b58\u5728\u4e00\u4e2a\u95ee\u9898\uff0c\u8ba9 Sense IQ \u611f\u5230\u56f0\u60d1\u3002\u5f53\u60a8\u67e5\u770b\u6b63\u5728\u8fdb\u884c\u7684\u7761\u7720\u4f1a\u8bdd\u7684\u6570\u636e\u65f6\uff0c\u5b83\u4f1a\u663e\u793a\u5047\u6570\u636e 1-2 \u5206\u949f\uff0c\u76f4\u5230\u52a0\u8f7d\u771f\u5b9e\u6570\u636e\u3002\u60a8\u53ef\u4ee5\u770b\u51fa\uff0c\u56e0\u4e3a\u201c\u5e8a\u4e0a\u201d\u65f6\u95f4\u662f\u51c6\u786e\u7684\uff0c\u4f46\u201c\u6301\u7eed\u65f6\u95f4\u201d\u6ca1\u6709\u4efb\u4f55\u610f\u4e49\u3002\u7136\u540e\uff0c1-2 \u5206\u949f\u540e\uff0c\u5c06\u586b\u5145\u771f\u5b9e\u6570\u636e\u3002\u8fd9\u975e\u5e38\u4ee4\u4eba\u56f0\u60d1\uff0c\u6211\u82b1\u4e86\u4e00\u6bb5\u65f6\u95f4\u624d\u5f04\u6e05\u695a\u53d1\u751f\u4e86\u4ec0\u4e48\u4e8b\u3002\u5982\u679c\u5b83\u53ea\u662f\u8bf4\u201c\u6b63\u5728\u52a0\u8f7d\u201d\u800c\u4e0d\u662f\u663e\u793a\u865a\u5047\u6570\u636e\uff08\u6216\u8005\u53ea\u662f\u52a0\u8f7d\u5f97\u66f4\u5feb\uff09\uff0c\u90a3\u5c31\u66f4\u597d\u4e86\u3002",
+                "title_translate": "\u5f88\u68d2\u7684\u663e\u793a\u5668\uff0c\u4f46 Sense IQ \u5b58\u5728\u95ee\u9898"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/be/reviews/id218012086"
+                    },
+                    "name": {
+                        "label": "FlashinFille"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-24T15:17:43-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12101903122"
+                },
+                "title": {
+                    "label": "Problems lately"
+                },
+                "content": {
+                    "label": "Since a few weeks the app thinks\nIt loses connection, and when that happens, it will make a very loud warning sound that connection is lost. This happens when opening the app/stream.\nEven with the volume down / off, it will still be the loudest setting possible. So loud that it will wake up your child.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/be/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "be",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u51e0\u5468\u540e\uff0c\u5e94\u7528\u7a0b\u5e8f\u8ba4\u4e3a\u5b83\u5931\u53bb\u4e86\u8fde\u63a5\uff0c\u5f53\u8fd9\u79cd\u60c5\u51b5\u53d1\u751f\u65f6\uff0c\u5b83\u4f1a\u53d1\u51fa\u975e\u5e38\u54cd\u4eae\u7684\u8b66\u544a\u58f0\uff0c\u8868\u660e\u8fde\u63a5\u4e22\u5931\u3002\u6253\u5f00\u5e94\u7528\u7a0b\u5e8f/\u6d41\u65f6\u4f1a\u53d1\u751f\u8fd9\u79cd\u60c5\u51b5\u3002\u5373\u4f7f\u97f3\u91cf\u8c03\u4f4e/\u5173\u95ed\uff0c\u5b83\u4ecd\u7136\u662f\u53ef\u80fd\u7684\u6700\u5927\u58f0\u97f3\u8bbe\u7f6e\u3002\u58f0\u97f3\u592a\u5927\uff0c\u4f1a\u5435\u9192\u60a8\u7684\u5b69\u5b50\u3002",
+                "title_translate": "\u6700\u8fd1\u51fa\u73b0\u95ee\u9898"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/fr/reviews/id332346416?l=en"
+                    },
+                    "name": {
+                        "label": "Max6.3"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-22T12:31:31-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12094008648"
+                },
+                "title": {
+                    "label": "Mise \u00e0 jour d\u00e9favorable"
+                },
+                "content": {
+                    "label": "L\u2019application ne fonctionne pas en arri\u00e8re plan depuis la derni\u00e8re mise jour !",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/fr/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u81ea\u4e0a\u6b21\u66f4\u65b0\u4ee5\u6765\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u4e0d\u518d\u5728\u540e\u53f0\u8fd0\u884c\uff01",
+                "title_translate": "\u4e0d\u5229\u7684\u66f4\u65b0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id253934319?l=en"
+                    },
+                    "name": {
+                        "label": "evdd1993"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-22T05:36:37-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12092674774"
+                },
+                "title": {
+                    "label": "Na update drama"
+                },
+                "content": {
+                    "label": "Ik gooi hem echt uit het raam. Sinds de update is deze ouderunit om de 10 minuten de verbinding volledig kwijt.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u6211\u771f\u7684\u8981\u628a\u5b83\u6254\u51fa\u7a97\u5916\u3002\u81ea\u66f4\u65b0\u4ee5\u6765\uff0c\u8be5\u7236\u8bbe\u5907\u6bcf\u9694 10 \u5206\u949f\u5c31\u4f1a\u5b8c\u5168\u5931\u53bb\u8fde\u63a5\u3002",
+                "title_translate": "\u90a3\u90e8\u5267\u66f4\u65b0\u4e86"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/de/reviews/id43840361?l=en"
+                    },
+                    "name": {
+                        "label": "Leister85"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-21T12:51:53-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12090147097"
+                },
+                "title": {
+                    "label": "Ger\u00e4t top. App Flop"
+                },
+                "content": {
+                    "label": "St\u00e4ndig kein Empfang. Somit kann ich die Kamera nicht nutzen. Und das obwohl alle meine Ger\u00e4te wlan Empfang haben und ich auf der Etage einen Wlan-Verst\u00e4rker nutze. Ich habe das Ger\u00e4t nun schon seit diversen Monaten und bin aufgrund des st\u00e4ndig abbrechenden Empfangs total unzufrieden.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4e00\u76f4\u6ca1\u6709\u63a5\u5f85\u3002\u6240\u4ee5\u6211\u4e0d\u80fd\u4f7f\u7528\u76f8\u673a\u3002\u5c3d\u7ba1\u6211\u7684\u6240\u6709\u8bbe\u5907\u90fd\u6709 WiFi \u63a5\u6536\u529f\u80fd\uff0c\u800c\u4e14\u6211\u5728\u5730\u677f\u4e0a\u4f7f\u7528\u4e86 WiFi \u653e\u5927\u5668\uff0c\u4f46\u60c5\u51b5\u4ecd\u7136\u5982\u6b64\u3002\u6211\u5df2\u7ecf\u4f7f\u7528\u8be5\u8bbe\u5907\u51e0\u4e2a\u6708\u4e86\uff0c\u4f46\u7531\u4e8e\u63a5\u6536\u4fe1\u53f7\u4e0d\u65ad\u4e2d\u65ad\uff0c\u6211\u975e\u5e38\u4e0d\u6ee1\u610f\u3002",
+                "title_translate": "\u5f88\u68d2\u7684\u8bbe\u5907\u3002\u5e94\u7528\u5931\u8d25"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Jure Biland\u017ei\u0107"
+                    },
+                    "label": "Jure Biland\u017ei\u0107"
+                },
+                "updated": {
+                    "label": "2024-12-20T18:50:43Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "f69c4456-ebc5-4937-9043-408bd8e7a133"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Top",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u9876\u90e8",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "hr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id168109819"
+                    },
+                    "name": {
+                        "label": "Quechua56777"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-20T07:34:40-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12085220484"
+                },
+                "title": {
+                    "label": "Great, but lacking"
+                },
+                "content": {
+                    "label": "So many wonderful things about this monitor, yet I miss some features my cheaper monitor had: ability to move the camera head (rotate, turn to see the entire room - this monitor doesn\u2019t move at all); a running clock so that I know the internet hasn\u2019t frozen;",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "us",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u8fd9\u6b3e\u663e\u793a\u5668\u6709\u5f88\u591a\u7cbe\u5f69\u7684\u5730\u65b9\uff0c\u4f46\u6211\u6000\u5ff5\u6211\u66f4\u4fbf\u5b9c\u7684\u663e\u793a\u5668\u6240\u5177\u6709\u7684\u4e00\u4e9b\u529f\u80fd\uff1a\u80fd\u591f\u79fb\u52a8\u6444\u50cf\u5934\uff08\u65cb\u8f6c\u3001\u8f6c\u52a8\u4ee5\u67e5\u770b\u6574\u4e2a\u623f\u95f4 - \u8be5\u663e\u793a\u5668\u6839\u672c\u4e0d\u79fb\u52a8\uff09\uff1b\u4e00\u4e2a\u6b63\u5728\u8fd0\u884c\u7684\u65f6\u949f\uff0c\u8fd9\u6837\u6211\u5c31\u77e5\u9053\u4e92\u8054\u7f51\u6ca1\u6709\u51bb\u7ed3\uff1b",
+                "title_translate": "\u5f88\u68d2\uff0c\u4f46\u8fd8\u6b20\u7f3a"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/fr/reviews/id219160683?l=en"
+                    },
+                    "name": {
+                        "label": "ID67200"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-20T00:57:20-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12084077364"
+                },
+                "title": {
+                    "label": "D\u00e9connexion intempestif"
+                },
+                "content": {
+                    "label": "Je suis en fibre mais par moment \u00e7a ce d\u00e9connecte et se reconnecte, voir je dois red\u00e9marrer l.appli . C\u2019est dommage mais sinon tr\u00e8s bonne outils, rien \u00e0 dire sur Philips. Une option pour r\u00e9gler le sons de la berceuse serait appr\u00e9ciable \ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/fr/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u6211\u4f7f\u7528\u5149\u7ea4\uff0c\u4f46\u6709\u65f6\u4f1a\u65ad\u5f00\u8fde\u63a5\u5e76\u91cd\u65b0\u8fde\u63a5\uff0c\u6211\u5fc5\u987b\u91cd\u65b0\u542f\u52a8\u5e94\u7528\u7a0b\u5e8f\u3002\u8fd9\u662f\u4e00\u4e2a\u9057\u61be\uff0c\u4f46\u5728\u5176\u4ed6\u65b9\u9762\u90fd\u662f\u975e\u5e38\u597d\u7684\u5de5\u5177\uff0c\u98de\u5229\u6d66\u6ca1\u4ec0\u4e48\u53ef\u8bf4\u7684\u3002\u8c03\u6574\u6447\u7bee\u66f2\u58f0\u97f3\u7684\u9009\u9879\u4f1a\u5f88\u597d\ud83e\udd37\ud83c\udffb\u200d\u2642\ufe0f",
+                "title_translate": "\u610f\u5916\u65ad\u7ebf"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Arthur van der Graaf"
+                    },
+                    "label": "Arthur van der Graaf"
+                },
+                "updated": {
+                    "label": "2024-12-19T19:04:35Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "71f7739d-f2e9-4fb2-a99b-f47968a7b0d9"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "topsysteem, werkt heel goed ook in het buitenland",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u9876\u7ea7\u7cfb\u7edf\uff0c\u56fd\u5916\u4e5f\u5f88\u597d\u7528",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id1212600796?l=en"
+                    },
+                    "name": {
+                        "label": "Mijn bijnaam en die van jou?"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-18T15:29:56-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12079144198"
+                },
+                "title": {
+                    "label": "Graag de optie meldingen uitzetten als ik app niet open heb staan."
+                },
+                "content": {
+                    "label": "App werkt op zich prima. Normaal gesproken prima verbinding, ook buitenshuis. \nWordt alleen gek van alle meldingen. De optie meldingen op achtergrond uitzetten heeft geen effect, alleen meldingen volledig uitzetten in systeeminstellingen. Ik vind het heel fijn dat ik meldingen krijg als ik thuis ben en de kleine ligt op bed, maar op m\u2019n werk kan ik er niets mee..",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u672c\u8eab\u8fd0\u884c\u826f\u597d\u3002\u901a\u5e38\u8fde\u63a5\u826f\u597d\uff0c\u5373\u4f7f\u5728\u5ba4\u5916\u4e5f\u662f\u5982\u6b64\u3002\u6240\u6709\u7684\u901a\u77e5\u7b80\u76f4\u8ba9\u6211\u53d1\u75af\u3002\u7981\u7528\u540e\u53f0\u901a\u77e5\u7684\u9009\u9879\u6ca1\u6709\u4efb\u4f55\u4f5c\u7528\uff0c\u53ea\u80fd\u5728\u7cfb\u7edf\u8bbe\u7f6e\u4e2d\u5b8c\u5168\u7981\u7528\u901a\u77e5\u3002\u6211\u771f\u7684\u5f88\u559c\u6b22\u5f53\u6211\u5728\u5bb6\u5e76\u4e14\u5c0f\u5bb6\u4f19\u5728\u5e8a\u4e0a\u65f6\u6536\u5230\u901a\u77e5\uff0c\u4f46\u5728\u5de5\u4f5c\u65f6\u6211\u65e0\u6cd5\u5bf9\u5b83\u4eec\u505a\u4efb\u4f55\u4e8b\u60c5\u3002",
+                "title_translate": "\u5982\u679c\u6211\u6ca1\u6709\u6253\u5f00\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u8bf7\u5173\u95ed\u901a\u77e5\u9009\u9879\u3002"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Anais Besson"
+                    },
+                    "label": "Anais Besson"
+                },
+                "updated": {
+                    "label": "2024-12-18T16:09:42Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "e741e11a-443e-4e48-addc-b0f0ba679aa3"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Bonne application mais c'est dommage que l'analyse du sommeil (alors que s'est un argument du babyphone) ne soit pas tr\u00e8s pr\u00e9cise dans son r\u00e9sultat, le tableau de bord devient donc tr\u00e8s peu int\u00e9ressant. Il est dommage que l'on ne puisse pas, comme d'autres applications de suivi du sommeil, agrandir le r\u00e9sultat de la nuit pour voir les d\u00e9tails par horaire. Cela aiderait de savoir \u00e0 quel heure notre b\u00e9b\u00e9 s'est endormi / r\u00e9veill\u00e9e et non pas \u00e0 quelle heure nous l'avons mis/sortie du lit.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u5f88\u597d\u7684\u5e94\u7528\u7a0b\u5e8f\uff0c\u4f46\u9057\u61be\u7684\u662f\u7761\u7720\u5206\u6790\uff08\u8fd9\u662f\u5a74\u513f\u76d1\u89c6\u5668\u7684\u4e00\u4e2a\u53c2\u6570\uff09\u7684\u7ed3\u679c\u4e0d\u662f\u5f88\u7cbe\u786e\uff0c\u56e0\u6b64\u4eea\u8868\u677f\u53d8\u5f97\u975e\u5e38\u65e0\u8da3\u3002\u9057\u61be\u7684\u662f\uff0c\u4e0e\u5176\u4ed6\u7761\u7720\u8ddf\u8e2a\u5e94\u7528\u7a0b\u5e8f\u4e00\u6837\uff0c\u60a8\u65e0\u6cd5\u653e\u5927\u5f53\u665a\u7684\u7ed3\u679c\u4ee5\u6309\u65f6\u95f4\u8868\u67e5\u770b\u8be6\u7ec6\u4fe1\u606f\u3002\u8fd9\u5c06\u6709\u52a9\u4e8e\u4e86\u89e3\u6211\u4eec\u7684\u5b9d\u5b9d\u4ec0\u4e48\u65f6\u95f4\u5165\u7761/\u9192\u6765\uff0c\u800c\u4e0d\u662f\u6211\u4eec\u4ec0\u4e48\u65f6\u95f4\u8ba9\u4ed6/\u5979\u4e0a\u5e8a/\u4e0b\u5e8a\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/es/reviews/id1384366229?l=en"
+                    },
+                    "name": {
+                        "label": "lagarterana nefer"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-16T11:42:30-07:00"
+                },
+                "im:rating": {
+                    "label": "4"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12071197537"
+                },
+                "title": {
+                    "label": "Muy practico"
+                },
+                "content": {
+                    "label": "Una maravilla",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/es/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "es",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4e00\u4e2a\u5947\u8ff9",
+                "title_translate": "\u5f88\u5b9e\u7528"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Lukas Schoeberl"
+                    },
+                    "label": "Lukas Schoeberl"
+                },
+                "updated": {
+                    "label": "2024-12-16T13:29:59Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "a23fc660-fd74-49ec-a4e6-f96e2942aaa7"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Wir nutzen das Babyphone jetzt seit ca 1 Jahr. Zum wiederholten male bin ich heute Nacht aufgewacht ohne dass das babyphone im Hintergrundmodus mein laut Schreiendes Kind erkannt hat. Meistens haben wir deswegen das Kamerabild permanent ge\u00f6ffnet, aber dann rauscht es permanent. Wirklich mies, insb wenn man den Ger\u00e4tepreis bedenkt.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u4eec\u5df2\u7ecf\u4f7f\u7528\u5a74\u513f\u76d1\u89c6\u5668\u5927\u7ea6\u4e00\u5e74\u4e86\u3002\u6628\u665a\u6211\u65e0\u6570\u6b21\u9192\u6765\uff0c\u800c\u5a74\u513f\u76d1\u89c6\u5668\u5374\u6ca1\u6709\u5728\u540e\u53f0\u6a21\u5f0f\u4e0b\u8bc6\u522b\u51fa\u6211\u5927\u58f0\u54ed\u6ce3\u7684\u5b69\u5b50\u3002\u8fd9\u5c31\u662f\u4e3a\u4ec0\u4e48\u6211\u4eec\u901a\u5e38\u8ba9\u76f8\u673a\u56fe\u50cf\u6c38\u4e45\u6253\u5f00\uff0c\u4f46\u968f\u540e\u5374\u4e0d\u65ad\u51fa\u73b0\u566a\u97f3\u3002\u771f\u7684\u5f88\u7cdf\u7cd5\uff0c\u5c24\u5176\u662f\u5f53\u4f60\u8003\u8651\u5230\u8bbe\u5907\u7684\u4ef7\u683c\u65f6\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 1
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 1
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Indr\u0117 Valkauskait\u0117"
+                    },
+                    "label": "Indr\u0117 Valkauskait\u0117"
+                },
+                "updated": {
+                    "label": "2024-12-16T08:20:58Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "620837ce-d8a9-46f7-98f6-2e4614a33158"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Background monitoring does not work properly",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u540e\u53f0\u76d1\u63a7\u65e0\u6cd5\u6b63\u5e38\u5de5\u4f5c",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "sg",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/de/reviews/id132357587?l=en"
+                    },
+                    "name": {
+                        "label": "SvdHApple"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-15T11:43:18-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12067516590"
+                },
+                "title": {
+                    "label": "good idea but simply not stable"
+                },
+                "content": {
+                    "label": "the connection breaks too often, problems in open wifi connections without password",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/de/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u8fde\u63a5\u7ecf\u5e38\u4e2d\u65ad\uff0c\u5728\u6ca1\u6709\u5bc6\u7801\u7684\u60c5\u51b5\u4e0b\u6253\u5f00 wifi \u8fde\u63a5\u65f6\u51fa\u73b0\u95ee\u9898",
+                "title_translate": "\u597d\u4e3b\u610f\uff0c\u4f46\u6839\u672c\u4e0d\u7a33\u5b9a"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/us/reviews/id142855433"
+                    },
+                    "name": {
+                        "label": "Gusmina"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-14T22:54:23-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12065251877"
+                },
+                "title": {
+                    "label": "Loved the app"
+                },
+                "content": {
+                    "label": "Recently bought this monitor to keep an eye on our new born. Product works great out of the box and this app is the perfect match.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/us/review?id=1544760744&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "us",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u6700\u8fd1\u4e70\u4e86\u8fd9\u6b3e\u663e\u793a\u5668\u6765\u7167\u987e\u6211\u4eec\u7684\u65b0\u751f\u513f\u3002\u4ea7\u54c1\u5f00\u7bb1\u5373\u7528\uff0c\u6548\u679c\u975e\u5e38\u597d\uff0c\u8fd9\u4e2a\u5e94\u7528\u7a0b\u5e8f\u662f\u5b8c\u7f8e\u7684\u642d\u914d\u3002",
+                "title_translate": "\u559c\u6b22\u8fd9\u4e2a\u5e94\u7528\u7a0b\u5e8f"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id410430856?l=en"
+                    },
+                    "name": {
+                        "label": "edwinnnanananan"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-13T13:48:51-07:00"
+                },
+                "im:rating": {
+                    "label": "1"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12059944521"
+                },
+                "title": {
+                    "label": "Camera verdwijnt iedere paar maanden"
+                },
+                "content": {
+                    "label": "Waarom verwijnt die monitor iedere paar maanden uit die app? Gebruik de app zelden en als ik de app dan een keer wil gebruiken kun je alles weer opnieuw gaan koppelen.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u4e3a\u4ec0\u4e48\u8be5\u76d1\u89c6\u5668\u6bcf\u9694\u51e0\u4e2a\u6708\u5c31\u4f1a\u4ece\u8be5\u5e94\u7528\u7a0b\u5e8f\u4e2d\u6d88\u5931\uff1f\u6211\u5f88\u5c11\u4f7f\u7528\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u5982\u679c\u6211\u60f3\u4f7f\u7528\u8be5\u5e94\u7528\u7a0b\u5e8f\u4e00\u6b21\uff0c\u60a8\u53ef\u4ee5\u518d\u6b21\u94fe\u63a5\u6240\u6709\u5185\u5bb9\u3002",
+                "title_translate": "\u76f8\u673a\u6bcf\u9694\u51e0\u4e2a\u6708\u5c31\u4f1a\u6d88\u5931\u4e00\u6b21"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Antonino Tumminelli"
+                    },
+                    "label": "Antonino Tumminelli"
+                },
+                "updated": {
+                    "label": "2024-12-13T14:54:01Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "5b2be5f9-1c79-4c22-99df-4e3682b0c371"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Elternger\u00e4t verliert die Verbindung. sch\u00f6n beim zweite ger\u00e4t. frustrierend",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u7236\u8bbe\u5907\u5931\u53bb\u8fde\u63a5\u3002\u5728\u7b2c\u4e8c\u53f0\u8bbe\u5907\u4e0a\u6548\u679c\u5f88\u597d\u3002\u4ee4\u4eba\u6cae\u4e27\u7684",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Alexander Marek"
+                    },
+                    "label": "Alexander Marek"
+                },
+                "updated": {
+                    "label": "2024-12-13T03:33:35Z"
+                },
+                "im:rating": {
+                    "label": 4
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "5b4ad261-2800-4e4c-91cd-b158ce4491ce"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Funktioniert super, solange man das WLAN nicht wechseln muss (z.B. im Urlaub) da muss man m\u00fchsam erneut die Kamera koppeln. Es w\u00e4re sch\u00f6n wenn man mit der App oder der Elterneinheit ein das WLAN einfach wechseln k\u00f6nnte",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u53ea\u8981\u60a8\u4e0d\u5fc5\u66f4\u6362 WiFi\uff08\u4f8b\u5982\u5728\u5ea6\u5047\u65f6\uff09\uff0c\u5c31\u53ef\u4ee5\u5f88\u597d\u5730\u5de5\u4f5c\uff0c\u56e0\u4e3a\u60a8\u5fc5\u987b\u8d39\u529b\u5730\u518d\u6b21\u914d\u5bf9\u76f8\u673a\u3002\u5982\u679c\u60a8\u53ef\u4ee5\u4f7f\u7528\u5e94\u7528\u7a0b\u5e8f\u6216\u5bb6\u957f\u8bbe\u5907\u8f7b\u677e\u66f4\u6539 WiFi\uff0c\u90a3\u5c31\u592a\u597d\u4e86",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id158973094?l=en"
+                    },
+                    "name": {
+                        "label": "Thommyttt"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-12T10:57:28-07:00"
+                },
+                "im:rating": {
+                    "label": "2"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12055736613"
+                },
+                "title": {
+                    "label": "Ontzettend slecht bereik met de app"
+                },
+                "content": {
+                    "label": "Op zich prima babyphone als je alleen het bijbehorende scherm gebruikt alleen die app is echt een ramp. Op de momenten dat je de babyphone aan wil zetten als je kleine net slaapt maakt hij 9/10 keer geen verbinding met de app waardoor je niet kan kijken of de babyphone goed staat. Speciaal gekocht voor de app maar beter niet kunnen doen. Prijs kwaliteit is slecht.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u5982\u679c\u60a8\u53ea\u4f7f\u7528\u76f8\u5e94\u7684\u5c4f\u5e55\uff0c\u90a3\u4e48\u5b83\u672c\u8eab\u5c31\u662f\u4e00\u4e2a\u5f88\u68d2\u7684\u5a74\u513f\u76d1\u89c6\u5668\uff0c\u4f46\u8be5\u5e94\u7528\u7a0b\u5e8f\u786e\u5b9e\u662f\u4e00\u573a\u707e\u96be\u3002\u5f53\u60a8\u60f3\u5728\u60a8\u7684\u5c0f\u5b9d\u5b9d\u521a\u521a\u7761\u89c9\u65f6\u6253\u5f00\u5a74\u513f\u76d1\u89c6\u5668\u65f6\uff0c9/10 \u7684\u60c5\u51b5\u4e0b\u5b83\u4e0d\u4f1a\u8fde\u63a5\u5230\u5e94\u7528\u7a0b\u5e8f\uff0c\u56e0\u6b64\u60a8\u65e0\u6cd5\u68c0\u67e5\u5a74\u513f\u76d1\u89c6\u5668\u662f\u5426\u8bbe\u7f6e\u6b63\u786e\u3002\u4e13\u95e8\u4e3a\u8be5\u5e94\u7528\u7a0b\u5e8f\u8d2d\u4e70\u7684\uff0c\u4f46\u65e0\u6cd5\u505a\u5f97\u66f4\u597d\u3002\u4ef7\u683c\u8d28\u91cf\u5f88\u5dee\u3002",
+                "title_translate": "\u8be5\u5e94\u7528\u7a0b\u5e8f\u7684\u8986\u76d6\u8303\u56f4\u6781\u5dee"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Ayla van Olphen"
+                    },
+                    "label": "Ayla van Olphen"
+                },
+                "updated": {
+                    "label": "2024-12-12T04:36:06Z"
+                },
+                "im:rating": {
+                    "label": 2
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "b11b38f5-722d-4fce-af38-a57ec1ca4ccc"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Mijn vriend krijgt via iphone geen meldingen, terwijl ik het wel krijg. Allebei eigen account. Ipad werkt wel met mijn account. Aanvullend: vriend is beheerder en ook getest enkel als gast. Dat lost het probleem ook niet op. Update: focus staat niet aan, app is ge\u00fcpdatet.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6211\u7684\u670b\u53cb\u4e0d\u4f1a\u901a\u8fc7 iPhone \u6536\u5230\u901a\u77e5\uff0c\u800c\u6211\u5374\u53ef\u4ee5\u3002\u4e24\u4eba\u90fd\u6709\u81ea\u5df1\u7684\u8d26\u6237\u3002 iPad \u53ef\u4ee5\u4f7f\u7528\u6211\u7684\u5e10\u6237\u3002\u9644\u52a0\uff1a\u670b\u53cb\u662f\u7ba1\u7406\u5458\uff0c\u4e5f\u4ec5\u4f5c\u4e3a\u8bbf\u5ba2\u8fdb\u884c\u6d4b\u8bd5\u3002\u8fd9\u4e5f\u4e0d\u80fd\u89e3\u51b3\u95ee\u9898\u3002\u66f4\u65b0\uff1a\u7126\u70b9\u4e0d\u5728\uff0c\u5e94\u7528\u7a0b\u5e8f\u5df2\u66f4\u65b0\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Piotr Zawada"
+                    },
+                    "label": "Piotr Zawada"
+                },
+                "updated": {
+                    "label": "2024-12-11T22:25:10Z"
+                },
+                "im:rating": {
+                    "label": 5
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "3f72c68d-e733-42b0-a00b-b299a5590617"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Super!",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6781\u597d\u7684\uff01",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "pl",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/nl/reviews/id325919002?l=en"
+                    },
+                    "name": {
+                        "label": "Anoniem1863"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-11T14:22:02-07:00"
+                },
+                "im:rating": {
+                    "label": "3"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12052559814"
+                },
+                "title": {
+                    "label": "Normaal goed, maar de laatste weken niet"
+                },
+                "content": {
+                    "label": "De afgelopen 2.5 jaar werkte de app perfect met de camera. Maar de laatste weken doet bijvoorbeeld de muziek het niet (moet echt via het \"kastje\") en geeft de app steeds aan dat de babyfoon offline is.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/nl/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "nl",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u5728\u8fc7\u53bb\u7684 2.5 \u5e74\u91cc\uff0c\u8be5\u5e94\u7528\u7a0b\u5e8f\u4e0e\u76f8\u673a\u5b8c\u7f8e\u914d\u5408\u3002\u4f46\u4f8b\u5982\uff0c\u6700\u8fd1\u51e0\u5468\uff0c\u97f3\u4e50\u4e0d\u8d77\u4f5c\u7528\uff08\u5b9e\u9645\u4e0a\u5fc5\u987b\u901a\u8fc7\u201c\u76d2\u5b50\u201d\u6765\u5b8c\u6210\uff09\uff0c\u5e76\u4e14\u5e94\u7528\u7a0b\u5e8f\u4e0d\u65ad\u6307\u793a\u5a74\u513f\u76d1\u89c6\u5668\u5904\u4e8e\u79bb\u7ebf\u72b6\u6001\u3002",
+                "title_translate": "\u901a\u5e38\u5f88\u597d\uff0c\u4f46\u6700\u8fd1\u51e0\u5468\u4e0d\u884c"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": "https://itunes.apple.com/fr/reviews/id291250101?l=en"
+                    },
+                    "name": {
+                        "label": "Bloodycrash"
+                    },
+                    "label": ""
+                },
+                "updated": {
+                    "label": "2024-12-09T21:56:18-07:00"
+                },
+                "im:rating": {
+                    "label": "5"
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "12046137494"
+                },
+                "title": {
+                    "label": "Parfait"
+                },
+                "content": {
+                    "label": "Depuis la derni\u00e8re mise \u00e0 jour 1.3.0, retour de l\u2019historique. Application facile \u00e0 utiliser et stable.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": "https://itunes.apple.com/fr/review?id=1544760744&l=en&type=Purple%20Software"
+                    }
+                },
+                "im:voteSum": {
+                    "label": "0"
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": "0"
+                },
+                "cc": "fr",
+                "ty_review_type": "0",
+                "ty_question_type": "0",
+                "content_translate": "\u81ea\u4e0a\u6b21\u66f4\u65b01.3.0\u4ee5\u6765\uff0c\u5386\u53f2\u8bb0\u5f55\u56de\u5f52\u3002\u4f7f\u7528\u65b9\u4fbf\uff0c\u5e94\u7528\u7a33\u5b9a\u3002",
+                "title_translate": "\u51bb\u7cd5"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Stefan Kleff"
+                    },
+                    "label": "Stefan Kleff"
+                },
+                "updated": {
+                    "label": "2024-12-10T03:34:41Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "3cd4d1e5-d891-4b41-80a5-62e1d72f18aa"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Querformat geht auf dem Tablet nicht",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u6a2a\u5411\u683c\u5f0f\u4e0d\u9002\u7528\u4e8e\u5e73\u677f\u7535\u8111",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            },
+            {
+                "author": {
+                    "uri": {
+                        "label": ""
+                    },
+                    "name": {
+                        "label": "Acer"
+                    },
+                    "label": "Acer"
+                },
+                "updated": {
+                    "label": "2024-12-09T20:42:28Z"
+                },
+                "im:rating": {
+                    "label": 1
+                },
+                "im:version": {
+                    "label": "1.3.0"
+                },
+                "id": {
+                    "label": "a76b44e4-31d6-42cf-967a-000c1579f261"
+                },
+                "title": {
+                    "label": ""
+                },
+                "content": {
+                    "label": "Schade, funktioniert nicht auf Chromebooks, obwohl die App installiert werden kann.",
+                    "attributes": {
+                        "type": "text"
+                    }
+                },
+                "content_translate": "\u9057\u61be\u7684\u662f\uff0c\u5c3d\u7ba1\u53ef\u4ee5\u5b89\u88c5\u8be5\u5e94\u7528\u7a0b\u5e8f\uff0c\u4f46\u5b83\u65e0\u6cd5\u5728 Chromebook \u4e0a\u8fd0\u884c\u3002",
+                "title_translate": "",
+                "link": {
+                    "attributes": {
+                        "rel": "related",
+                        "href": ""
+                    }
+                },
+                "im:voteSum": {
+                    "label": 0
+                },
+                "im:contentType": {
+                    "attributes": {
+                        "term": "Application",
+                        "label": "Application"
+                    }
+                },
+                "im:voteCount": {
+                    "label": 0
+                },
+                "os": {
+                    "label": "android"
+                },
+                "cc": "de",
+                "ty_review_type": "0",
+                "ty_question_type": "0"
+            }
+        ]
+    }
+}
